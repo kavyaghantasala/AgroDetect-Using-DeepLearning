@@ -1,0 +1,2720 @@
+{
+  "Apple___Apple_scab": {
+    "crop": "Apple",
+    "condition": "Apple Scab",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Apple Scab",
+        "affected_plant": "Apple (Malus domestica)",
+        "symptoms": [
+          "Olive-green to dark velvety spots on the upper leaf surface.",
+          "Deformed leaves that turn yellow and drop prematurely.",
+          "Corky, scabby brown lesions appearing on the fruit."
+        ],
+        "preventive_measures": [
+          "Rake and destroy fallen leaves in autumn to remove overwintering fungal spores.",
+          "Prune tree canopies to encourage rapid air circulation and quick leaf drying.",
+          "Apply preventative copper or sulfur-based fungicides during early spring bud break."
+        ],
+        "general_management": [
+          "Plant resistant apple varieties (e.g., Liberty, Prima, Freedom).",
+          "Avoid overhead sprinkler irrigation that keeps leaves wet."
+        ]
+      },
+      "hi": {
+        "disease_name": "सेब का पपड़ी रोग (Apple Scab)",
+        "affected_plant": "सेब",
+        "symptoms": [
+          "पत्तियों की ऊपरी सतह पर जैतून-हरे या गहरे मखमली धब्बे।",
+          "पत्तियां विकृत होकर पीली पड़ जाती हैं और समय से पहले गिर जाती हैं।",
+          "फलों पर भूरे रंग के खुरदुरे धब्बे बन जाते हैं।"
+        ],
+        "preventive_measures": [
+          "शरद ऋतु में गिरी हुई पत्तियों को इकट्ठा करके नष्ट करें।",
+          "हवा और धूप के लिए पेड़ों की छंटाई करें।",
+          "शुरुआती वसंत में कॉपर आधारित फफूंदनाशक का छिड़काव करें।"
+        ],
+        "general_management": [
+          "रोग प्रतिरोधी किस्मों का चयन करें।",
+          "पत्तियों पर सीधे पानी छिड़कने से बचें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆப்பிள் சொறி நோய் (Apple Scab)",
+        "affected_plant": "ஆப்பிள்",
+        "symptoms": [
+          "இலைகளின் மேல் பகுதியில் ஆலிவ்-பச்சை அல்லது கருமையான புள்ளிகள் தோன்றும்.",
+          "இலைகள் சிதைந்து முன்கூட்டியே உதிரும்.",
+          "பழங்களில் கரடுமுரடான பழுப்பு நிற வடுக்கள் உருவாகும்."
+        ],
+        "preventive_measures": [
+          "கீழே விழுந்த இலைகளைச் சேகரித்து எரிக்கவும்.",
+          "காற்றோட்டத்தை அதிகரிக்க மரக் கிளைகளை கவாத்து செய்யவும்.",
+          "வசந்த காலத்தில் செம்பு அடிப்படையிலான பூஞ்சைக்கொல்லியை தெளிக்கவும்."
+        ],
+        "general_management": [
+          "நோய் எதிர்ப்பு திறன் கொண்ட ரகங்களை நடவு செய்யவும்.",
+          "இலைகளில் நீர் தேங்குவதைத் தவிர்க்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆపిల్ స్కాబ్ తెగులు (Apple Scab)",
+        "affected_plant": "ఆపిల్",
+        "symptoms": [
+          "ఆకుల పైభాగంలో ముదురు ఆకుపచ్చ రంగు మచ్చలు ఏర్పడతాయి.",
+          "ఆకులు పసుపు రంగులోకి మారి రాలిపోతాయి.",
+          "కాయలపై గట్టి బూడిద లేదా గోధుమ రంగు మచ్చలు కనిపిస్తాయి."
+        ],
+        "preventive_measures": [
+          "రాలిన ఆకులను సేకరించి నాశనం చేయండి.",
+          "చెట్లకు తగినంత గాలి, వెలుతురు వచ్చేలా కొమ్మలను కత్తిరించండి.",
+          "మొగ్గలు వచ్చే సమయంలో కాపర్ ఆధారిత శిలీంద్రనాశిని పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "తెగులును తట్టుకునే రకాలను ఎంచుకోండి.",
+          "ఆకులపై నీరు నిలవకుండా చూడండి."
+        ]
+      }
+    }
+  },
+  "Apple___Black_rot": {
+    "crop": "Apple",
+    "condition": "Black Rot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Black Rot (Frog-eye Leaf Spot)",
+        "affected_plant": "Apple (Malus domestica)",
+        "symptoms": [
+          "Small purple spots on leaves that enlarge into 'frog-eye' lesions with tan centers.",
+          "Firm, rotting dark concentric rings on the fruit.",
+          "Cankers forming on limbs and dead twigs."
+        ],
+        "preventive_measures": [
+          "Prune out dead wood, cankers, and mummified fruits from previous seasons.",
+          "Maintain optimal tree health through balanced nitrogen fertilization.",
+          "Apply protective fungicides from petal fall through harvest."
+        ],
+        "general_management": [
+          "Sterilize pruning equipment between cuts using 70% alcohol.",
+          "Promptly remove and dispose of infected plant tissues away from the orchard."
+        ]
+      },
+      "hi": {
+        "disease_name": "सेब का काला सड़न रोग (Black Rot)",
+        "affected_plant": "सेब",
+        "symptoms": [
+          "पत्तियों पर बैंगनी और भूरे गोल धब्बे ('मेंढक की आंख' जैसे)।",
+          "फलों पर संकेंद्री छल्लेदार काला सड़न।",
+          "टहनियों और तने पर घाव (कैंकर) बनना।"
+        ],
+        "preventive_measures": [
+          "सूखी टहनियों और सड़े हुए फलों को हटा दें।",
+          "उचित छंटाई और संतुलित पोषण प्रदान करें।",
+          "उचित कवकनाशी का समय पर छिड़काव करें।"
+        ],
+        "general_management": [
+          "छंटाई के उपकरणों को कीटाणुरहित रखें।",
+          "संक्रमित हिस्सों को बगीचे से दूर नष्ट करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆப்பிள் கருப்பு அழுகல் (Black Rot)",
+        "affected_plant": "ஆப்பிள்",
+        "symptoms": [
+          "இலைகளில் தவளைக் கண் போன்ற புள்ளிகள்.",
+          "பழங்களில் கருப்பு நிற அழுகல் வளையங்கள்.",
+          "மரக் கிளைகளில் புண்கள் தோன்றுதல்."
+        ],
+        "preventive_measures": [
+          "பாதிக்கப்பட்ட உலர் கிளைகளை வெட்டி அகற்றவும்.",
+          "சமச்சீர் உர மேலாண்மையைப் பின்பற்றவும்.",
+          "பூக்கும் பருவத்திற்கு பின் தகுந்த பூஞ்சைக்கொல்லி தெளிக்கவும்."
+        ],
+        "general_management": [
+          "கவாத்து கருவிகளை கிருமி நீக்கம் செய்யவும்.",
+          "பாதிக்கப்பட்ட பழங்களை உடனே அழிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆపిల్ బ్లాక్ రాట్ తెగులు (Black Rot)",
+        "affected_plant": "ఆపిల్",
+        "symptoms": [
+          "ఆకులపై కప్ప కన్ను ఆకారపు మచ్చలు.",
+          "కాయలపై నల్లటి వలయాకారపు కుళ్లు.",
+          "కొమ్మలపై పుండ్లు ఏర్పడటం."
+        ],
+        "preventive_measures": [
+          "ఎండిన కొమ్మలు మరియు కుళ్ళిన కాయలను తొలగించండి.",
+          "సమతుల్య ఎరువులను అందించండి.",
+          "పూత రాలిన తర్వాత రక్షిత శిలీంద్రనాశినులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "కత్తిరింపు పరికరాలను క్రిమిరహితం చేయండి.",
+          "సోకిన భాగాలను తోట నుండి దూరంగా తీసుకెళ్లి నాశనం చేయండి."
+        ]
+      }
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "crop": "Apple",
+    "condition": "Cedar Apple Rust",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Cedar Apple Rust",
+        "affected_plant": "Apple (Malus domestica)",
+        "symptoms": [
+          "Bright yellow-orange spots on the upper leaf surface.",
+          "Tube-like structures (aecia) producing orange spores on leaf undersides.",
+          "Distorted fruit with chlorotic lesions."
+        ],
+        "preventive_measures": [
+          "Remove nearby Eastern red cedar or juniper trees within 1 to 2 miles if possible.",
+          "Apply preventative fungicides (myclobutanil or mancozeb) when apple buds show pink.",
+          "Choose rust-resistant cultivars (e.g., Redfree, Enterprise)."
+        ],
+        "general_management": [
+          "Prune galls from neighboring ornamental junipers in late winter.",
+          "Ensure adequate orchard ventilation."
+        ]
+      },
+      "hi": {
+        "disease_name": "सेब का रतुआ रोग (Cedar Apple Rust)",
+        "affected_plant": "सेब",
+        "symptoms": [
+          "पत्तियों की ऊपरी सतह पर चमकीले नारंगी-पीले धब्बे।",
+          "पत्तियों के नीचे छोटे उभार जिनसे बीजाणु निकलते हैं।",
+          "फलों का विकृत होना।"
+        ],
+        "preventive_measures": [
+          "आस-पास के जूनिपर पेड़ों से संक्रमित गांठे हटाएं।",
+          "कलियां खिलने पर उपयुक्त कवकनाशी का छिड़काव करें।",
+          "रोग प्रतिरोधी प्रजातियां लगाएं।"
+        ],
+        "general_management": [
+          "बगीचे में वायु संचार बनाए रखें।",
+          "संक्रमित पत्तियों को एकत्र कर नष्ट करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "சீடர் ஆப்பிள் துரு நோய் (Cedar Apple Rust)",
+        "affected_plant": "ஆப்பிள்",
+        "symptoms": [
+          "இலைகளின் மேல் பகுதியில் பிரகாசமான மஞ்சள்-ஆரஞ்சு புள்ளிகள்.",
+          "இலைகளின் கீழ் ஆரஞ்சு வித்துக்கள் வெளியேறுதல்.",
+          "பழங்கள் உருக்குலைந்து காணப்படுதல்."
+        ],
+        "preventive_measures": [
+          "அருகிலுள்ள ஜூனிபர் மரங்களை அகற்றவும் அல்லது நிர்வகிக்கவும்.",
+          "மொட்டு விடும் பருவத்தில் பூஞ்சைக்கொல்லி தெளிக்கவும்.",
+          "நோய் எதிர்ப்பு ரகங்களை பயிரிடவும்."
+        ],
+        "general_management": [
+          "தோட்டத்தில் நல்ல காற்றோட்டம் இருப்பதை உறுதி செய்யவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "సీడర్ ఆపిల్ తుప్పు తెగులు (Cedar Apple Rust)",
+        "affected_plant": "ఆపిల్",
+        "symptoms": [
+          "ఆకులపై ప్రకాశవంతమైన పసుపు-నారింజ రంగు మచ్చలు.",
+          "ఆకుల అడుగుభాగంలో నారింజ రంగు బీజకోశాలు.",
+          "కాయల ఆకారం దెబ్బతినడం."
+        ],
+        "preventive_measures": [
+          "సమీపంలోని జునిపెర్ మొక్కల నుండి తెగులు సోకిన భాగాలను తొలగించండి.",
+          "మొగ్గ దశలో నివారణ శిలీంద్రనాశినులను పిచికారీ చేయండి.",
+          "తుప్పును తట్టుకునే రకాలను సాగు చేయండి."
+        ],
+        "general_management": [
+          "తోటలో తగినంత గాలి ప్రసరణ ఉండేలా చూడండి."
+        ]
+      }
+    }
+  },
+  "Apple___healthy": {
+    "crop": "Apple",
+    "condition": "Healthy Leaf",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Apple Foliage",
+        "affected_plant": "Apple (Malus domestica)",
+        "symptoms": [
+          "No visible disease lesions or fungal growth.",
+          "Vibrant, uniform green foliage with smooth margins.",
+          "Normal vigor and healthy vegetative growth."
+        ],
+        "preventive_measures": [
+          "Continue balanced seasonal fertilization (NPK + micronutrients).",
+          "Maintain regular tree training and canopy pruning.",
+          "Monitor weekly for early signs of aphids, mites, or fungal spots."
+        ],
+        "general_management": [
+          "Practice drip irrigation to keep foliage dry.",
+          "Apply mulch around tree bases to conserve soil moisture."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ सेब की पत्ती (Healthy)",
+        "affected_plant": "सेब",
+        "symptoms": [
+          "पत्ती पर कोई रोग या कवक के लक्षण नहीं हैं।",
+          "पत्तियां चमकदार, गहरी हरी और स्वस्थ हैं।",
+          "पौधे की वृद्धि सामान्य और मजबूत है।"
+        ],
+        "preventive_measures": [
+          "संतुलित खाद और पानी की व्यवस्था जारी रखें।",
+          "नियमित रूप से कीटों की निगरानी करते रहें।",
+          "उचित छंटाई द्वारा हवा का संचार बनाए रखें।"
+        ],
+        "general_management": [
+          "ड्रिप सिंचाई का उपयोग करें ताकि पत्तियां गीली न हों।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான ஆப்பிள் இலை (Healthy)",
+        "affected_plant": "ஆப்பிள்",
+        "symptoms": [
+          "நோய் அறிகுறிகள் அல்லது பூஞ்சை தாக்குதல் எதுவும் இல்லை.",
+          "பச்சை நிறத்தில் ஆரோக்கியமான இலைகள்.",
+          "சீரான வளர்ச்சி."
+        ],
+        "preventive_measures": [
+          "சீரான நீர்ப்பாசனம் மற்றும் உர மேலாண்மையைத் தொடரவும்.",
+          "பூச்சி தாக்குதல்களைத் தொடர்ந்து கண்காணிக்கவும்."
+        ],
+        "general_management": [
+          "சொட்டு நீர்ப்பாசன முறையைப் பயன்படுத்தவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన ఆపిల్ ఆకు (Healthy)",
+        "affected_plant": "ఆపిల్",
+        "symptoms": [
+          "ఎలాంటి తెగుళ్లు లేదా శిలీంధ్రాల లక్షణాలు లేవు.",
+          "ఆకులు సహజమైన ఆకుపచ్చ రంగులో ఆరోగ్యంగా ఉన్నాయి.",
+          "మొక్క పెరుగుదల సాధారణంగా ఉంది."
+        ],
+        "preventive_measures": [
+          "సమతుల్య ఎరువులు మరియు నీటి యాజమాన్యాన్ని కొనసాగించండి.",
+          "కీటకాలు మరియు పురుగుల ఉధృతిని గమనిస్తూ ఉండండి."
+        ],
+        "general_management": [
+          "ఆకులు తడవకుండా బిందు సేద్యం (డ్రిప్) ఉపయోగించండి."
+        ]
+      }
+    }
+  },
+  "Blueberry___healthy": {
+    "crop": "Blueberry",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Blueberry Foliage",
+        "affected_plant": "Blueberry (Vaccinium corymbosum)",
+        "symptoms": [
+          "No chlorosis or necrotic spotting.",
+          "Uniform dark green foliage with healthy wax coating.",
+          "Vigorous shoot growth."
+        ],
+        "preventive_measures": [
+          "Maintain soil acidity between pH 4.5 and 5.5.",
+          "Apply organic pine bark mulch to preserve soil moisture.",
+          "Ensure well-drained acidic soil."
+        ],
+        "general_management": [
+          "Avoid overhead watering; use micro-sprinklers or drip lines.",
+          "Prune older canes every winter to renew vigorous fruiting wood."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ ब्लूबेरी (Healthy)",
+        "affected_plant": "ब्लूबेरी",
+        "symptoms": [
+          "पत्तियों पर कोई धब्बा या पीलापन नहीं है।",
+          "गहरी हरी और स्वस्थ पत्तियां।"
+        ],
+        "preventive_measures": [
+          "मिट्टी का पीएच 4.5 से 5.5 के बीच बनाए रखें।",
+          "उचित मल्चिंग का उपयोग करें।"
+        ],
+        "general_management": [
+          "ड्रिप सिंचाई का उपयोग करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான புளூபெர்ரி இலை (Healthy)",
+        "affected_plant": "புளூபெர்ரி",
+        "symptoms": [
+          "எந்தவித புள்ளிகளும் இல்லாமல் ஆரோக்கியமாக உள்ளது."
+        ],
+        "preventive_measures": [
+          "மண்ணின் அமிலத்தன்மையை (pH 4.5 - 5.5) பராமரிக்கவும்."
+        ],
+        "general_management": [
+          "சொட்டு நீர் பாசனம் செய்யவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన బ్లూబెర్రీ ఆకు (Healthy)",
+        "affected_plant": "బ్లూబెర్రీ",
+        "symptoms": [
+          "మచ్చలు లేని సహజమైన ఆకుపచ్చ రంగు ఆకులు."
+        ],
+        "preventive_measures": [
+          "నేల పీహెచ్ (pH 4.5 - 5.5) సరిగ్గా ఉండేలా చూసుకోండి."
+        ],
+        "general_management": [
+          "డ్రిప్ ఇరిగేషన్ పద్ధతిని పాటించండి."
+        ]
+      }
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "crop": "Cherry",
+    "condition": "Powdery Mildew",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Cherry Powdery Mildew",
+        "affected_plant": "Cherry (Prunus avium / Prunus cerasus)",
+        "symptoms": [
+          "White powdery fungal patches on leaves and tender shoots.",
+          "Upward curling or puckering of young leaves.",
+          "Premature defoliation in severe outbreaks."
+        ],
+        "preventive_measures": [
+          "Prune tree dense foliage to maximize sunlight exposure and air flow.",
+          "Apply horticultural oils or sulfur sprays at early onset.",
+          "Avoid excessive nitrogen fertilization that promotes lush, susceptible growth."
+        ],
+        "general_management": [
+          "Irrigate early in the morning.",
+          "Remove infected terminal twigs in winter pruning."
+        ]
+      },
+      "hi": {
+        "disease_name": "चेरी का चूर्णिल आसिता (Powdery Mildew)",
+        "affected_plant": "चेरी",
+        "symptoms": [
+          "पत्तियों और नई टहनियों पर सफेद चूर्ण जैसा फफूंद।",
+          "पत्तियों का मुड़ना और सूखना।"
+        ],
+        "preventive_measures": [
+          "धूप और हवा के लिए टहनियों की छंटाई करें।",
+          "सल्फर या कवकनाशी का छिड़काव करें।",
+          "अधिक नाइट्रोजन खाद से बचें।"
+        ],
+        "general_management": [
+          "सुबह के समय सिंचाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "செர்ரி சாம்பல் நோய் (Powdery Mildew)",
+        "affected_plant": "செர்ரி",
+        "symptoms": [
+          "இலைகளின் மேல் வெள்ளை நிற சாம்பல் போன்ற படலம்.",
+          "இலைகள் சுருங்குதல்."
+        ],
+        "preventive_measures": [
+          "மரக்கிளைகளை கவாத்து செய்து சூரிய ஒளி கிடைக்கச் செய்யவும்.",
+          "கந்தகத் தூள் அல்லது தகுந்த பூஞ்சைக்கொல்லி தெளிக்கவும்."
+        ],
+        "general_management": [
+          "காலை வேளையில் நீர்ப்பாசனம் செய்யவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "చెర్రీ బూడిద తెగులు (Powdery Mildew)",
+        "affected_plant": "చెర్రీ",
+        "symptoms": [
+          "ఆకులపై తెల్లటి బూడిద లాంటి పొర ఏర్పడుతుంది.",
+          "లేత ఆకులు ముడుచుకుపోతాయి."
+        ],
+        "preventive_measures": [
+          "సూర్యరశ్మి మరియు గాలి ప్రసరణ కోసం కొమ్మలను కత్తిరించండి.",
+          "గంధకం లేదా సిఫార్సు చేసిన శిలీంద్రనాశినులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "ఉదయం వేళల్లో నీరు పెట్టండి."
+        ]
+      }
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "crop": "Cherry",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Cherry Foliage",
+        "affected_plant": "Cherry (Prunus avium / Prunus cerasus)",
+        "symptoms": [
+          "Clean, glossy green leaves without powdery residue or shot holes.",
+          "Normal internode length and fruit development."
+        ],
+        "preventive_measures": [
+          "Follow routine orchard spray schedule.",
+          "Maintain balanced fertility and weed control."
+        ],
+        "general_management": [
+          "Inspect canopy after prolonged rainfall."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ चेरी (Healthy)",
+        "affected_plant": "चेरी",
+        "symptoms": [
+          "चमकदार और स्वस्थ हरी पत्तियां।"
+        ],
+        "preventive_measures": [
+          "संतुलित खाद और नियमित देखभाल जारी रखें।"
+        ],
+        "general_management": [
+          "नियमित निरीक्षण करते रहें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான செர்ரி இலை (Healthy)",
+        "affected_plant": "செர்ரி",
+        "symptoms": [
+          "நோயற்ற பளபளப்பான பச்சை இலைகள்."
+        ],
+        "preventive_measures": [
+          "சீரான பராமரிப்பு முறைகளைப் பின்பற்றவும்."
+        ],
+        "general_management": [
+          "தொடர்ந்து கண்காணிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన చెర్రీ ఆకు (Healthy)",
+        "affected_plant": "చెర్రీ",
+        "symptoms": [
+          "ఎలాంటి తెగుళ్ల దాడి లేని ఆరోగ్యకరమైన ఆకులు."
+        ],
+        "preventive_measures": [
+          "సకాలంలో ఎరువులు మరియు నీటిని అందించండి."
+        ],
+        "general_management": [
+          "తోటను క్రమబద్ధంగా గమనిస్తూ ఉండండి."
+        ]
+      }
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "crop": "Corn (Maize)",
+    "condition": "Gray Leaf Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Gray Leaf Spot (Cercospora zeae-maydis)",
+        "affected_plant": "Corn / Maize (Zea mays)",
+        "symptoms": [
+          "Small tan spots that elongate into rectangular lesions constrained by leaf veins.",
+          "Lesions turn grayish as fungal spores mature.",
+          "Extensive blighting of photosynthetic foliage leading to lodging."
+        ],
+        "preventive_measures": [
+          "Rotate corn crops with non-host crops like soybeans or small grains.",
+          "Incorporate or bury crop residue to accelerate fungal decomposition.",
+          "Plant tolerant or resistant hybrid corn seed."
+        ],
+        "general_management": [
+          "Apply strobilurin or triazole fungicides at tasseling stage if disease pressure is high.",
+          "Optimize plant population density for ventilation."
+        ]
+      },
+      "hi": {
+        "disease_name": "मक्के का धूसर पत्ती धब्बा (Gray Leaf Spot)",
+        "affected_plant": "मक्का",
+        "symptoms": [
+          "पत्तियों पर आयताकार भूरे-धूसर धब्बे जो नसों के बीच सीमित रहते हैं।",
+          "पत्तियों का सूखना और पौधे का गिर जाना।"
+        ],
+        "preventive_measures": [
+          "फसल चक्र अपनाएं (सोयाबीन या दलहन के साथ)।",
+          "पुरानी फसल के अवशेषों को नष्ट करें।",
+          "रोग प्रतिरोधी संकर किस्मों का उपयोग करें।"
+        ],
+        "general_management": [
+          "आवश्यकता पड़ने पर अनुशंसित कवकनाशी का छिड़काव करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "மக்காச்சோள சாம்பல் நிற இலைப்புள்ளி (Gray Leaf Spot)",
+        "affected_plant": "மக்காச்சோளம்",
+        "symptoms": [
+          "இலை நரம்புகளுக்கு இடையில் செவ்வக வடிவிலான சாம்பல் நிற புள்ளிகள்.",
+          "இலைகள் காய்ந்து போதல்."
+        ],
+        "preventive_measures": [
+          "பயிர் சுழற்சி முறையைக் கடைப்பிடிக்கவும்.",
+          "முந்தைய பயிர்க் கழிவுகளை அகற்றவும்.",
+          "நோய் எதிர்ப்பு வீரிய விதைகளைப் பயன்படுத்தவும்."
+        ],
+        "general_management": [
+          "பூஞ்சைக்கொல்லிகளை சரியான நேரத்தில் தெளிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "మొక్కజొన్న గ్రే లీఫ్ స్పాట్ తెగులు (Gray Leaf Spot)",
+        "affected_plant": "మొక్కజొన్న",
+        "symptoms": [
+          "ఆకుల ఈనెల మధ్య దీర్ఘచతురస్రాకార బూడిద రంగు మచ్చలు.",
+          "ఆకులు ఎండిపోయి మొక్క విరిగిపోవడం."
+        ],
+        "preventive_measures": [
+          "పంట మార్పిడి పద్ధతిని పాటించండి.",
+          "మునుపటి పంట వ్యర్థాలను తొలగించి దున్నండి.",
+          "తెగులును తట్టుకునే హైబ్రిడ్ విత్తనాలను వాడండి."
+        ],
+        "general_management": [
+          "తెగులు ఉధృతి ఎక్కువగా ఉన్నప్పుడు సిఫార్సు చేసిన మందులను పిచికారీ చేయండి."
+        ]
+      }
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "crop": "Corn (Maize)",
+    "condition": "Common Rust",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Common Rust (Puccinia sorghi)",
+        "affected_plant": "Corn / Maize (Zea mays)",
+        "symptoms": [
+          "Oval to elongate cinnamon-brown pustules scattered across both leaf surfaces.",
+          "Pustules rupture epidermal tissue, releasing powdery rust-colored spores.",
+          "Severe infections cause yellowing and leaf necrosis."
+        ],
+        "preventive_measures": [
+          "Select resistant hybrid corn varieties.",
+          "Plant early in the season to evade peak spore migration.",
+          "Apply foliar fungicides when pustules appear before silking stage."
+        ],
+        "general_management": [
+          "Monitor lower and middle leaves weekly during humid, warm periods."
+        ]
+      },
+      "hi": {
+        "disease_name": "मक्के का सामान्य रतुआ (Common Rust)",
+        "affected_plant": "मक्का",
+        "symptoms": [
+          "पत्तियों के दोनों तरफ छोटे, उभरे हुए दालचीनी जैसे भूरे दाने (पस्ट्यूल्स)।",
+          "धूल जैसा भूरा पाउडर निकलना।"
+        ],
+        "preventive_measures": [
+          "प्रतिरोधी संकर किस्मों का चयन करें।",
+          "समय पर बुवाई करें।",
+          "शुरुआती लक्षण दिखने पर कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "खेत में नमी की स्थिति पर नजर रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "மக்காச்சோள துரு நோய் (Common Rust)",
+        "affected_plant": "மக்காச்சோளம்",
+        "symptoms": [
+          "இலைகளின் இருபுறமும் பழுப்பு நிற கொப்புளங்கள் மற்றும் வித்துக்கள்.",
+          "இலைகள் மஞ்சள் நிறமாக மாறுதல்."
+        ],
+        "preventive_measures": [
+          "எதிர்ப்புத் திறன் கொண்ட ரகங்களை பயிரிடவும்.",
+          "பருவத்திற்கு முன்பே விதைப்பு செய்யவும்."
+        ],
+        "general_management": [
+          "வழக்கமான பயிர் பரிசோதனையை மேற்கொள்ளவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "మొక్కజొన్న తుప్పు తెగులు (Common Rust)",
+        "affected_plant": "మొక్కజొన్న",
+        "symptoms": [
+          "ఆకుల ఇరువైపులా గోధుమ రంగు చిన్న పొక్కులు.",
+          "పొక్కులు పగిలి తుప్పు పొడి రాలడం."
+        ],
+        "preventive_measures": [
+          "రక్షిత హైబ్రిడ్ రకాలను నాటండి.",
+          "సకాలంలో విత్తనాలు విత్తండి."
+        ],
+        "general_management": [
+          "ఆకులను క్రమం తప్పకుండా పరిశీలించండి."
+        ]
+      }
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "crop": "Corn (Maize)",
+    "condition": "Northern Corn Leaf Blight",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Northern Corn Leaf Blight (Exserohilum turcicum)",
+        "affected_plant": "Corn / Maize (Zea mays)",
+        "symptoms": [
+          "Long, elliptical, grayish-green or tan 'cigar-shaped' lesions (1-6 inches long).",
+          "Lesions coalesce, causing extensive burning of leaf area.",
+          "Dark spore fuzz visible on lesion surfaces under humid conditions."
+        ],
+        "preventive_measures": [
+          "Plant resistant hybrids carrying Ht genes.",
+          "Rotate away from corn for at least 1-2 years in heavily infected fields.",
+          "Till crop debris to bury fungal inoculum."
+        ],
+        "general_management": [
+          "Fungicide treatment may be economical if disease threatens the ear leaf prior to tasseling."
+        ]
+      },
+      "hi": {
+        "disease_name": "मक्के का उत्तरी पत्ती झुलसा (Northern Leaf Blight)",
+        "affected_plant": "मक्का",
+        "symptoms": [
+          "पत्तियों पर लंबे, सिगार के आकार के भूरे-धूसर धब्बे।",
+          "पत्तियों का जलना और सूखना।"
+        ],
+        "preventive_measures": [
+          "रोग प्रतिरोधी किस्मों का उपयोग करें।",
+          "फसल चक्र अपनाएं।",
+          "फसल अवशेषों को गहरा जोतकर दबाएं।"
+        ],
+        "general_management": [
+          "आवश्यकता होने पर अनुशंसित कवकनाशी का छिड़काव करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "வடக்கு மக்காச்சோள இலை கருகல் நோய் (Northern Leaf Blight)",
+        "affected_plant": "மக்காச்சோளம்",
+        "symptoms": [
+          "சுருட்டு வடிவிலான நீளமான சாம்பல்-பச்சை நிற வடுக்கள்.",
+          "இலைகள் கருகி காய்ந்து போதல்."
+        ],
+        "preventive_measures": [
+          "எதிர்ப்புத் திறன் கொண்ட விதைகளைத் தேர்ந்தெடுக்கவும்.",
+          "பயிர் சுழற்சி முறையை பின்பற்றவும்."
+        ],
+        "general_management": [
+          "பாதிக்கப்பட்ட இலைகளை ஆரம்பத்திலேயே கவனிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "మొక్కజొన్న ఆకు ఎండు తెగులు (Northern Leaf Blight)",
+        "affected_plant": "మొక్కజొన్న",
+        "symptoms": [
+          "ఆకులపై పొడవాటి చుట్ట ఆకారపు బూడిద రంగు మచ్చలు.",
+          "ఆకులు మాడిపోయి ఎండిపోవడం."
+        ],
+        "preventive_measures": [
+          "తెగులు నిరోధక విత్తనాలను ఎంచుకోండి.",
+          "పంట మార్పిడిని పాటించండి.",
+          "పంట వ్యర్థాలను భూమిలో కలిసేలా లోతు దుక్కి దున్నండి."
+        ],
+        "general_management": [
+          "ప్రారంభ దశలోనే తగిన శిలీంద్రనాశినులతో చర్యలు తీసుకోండి."
+        ]
+      }
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "crop": "Corn (Maize)",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Corn Foliage",
+        "affected_plant": "Corn / Maize (Zea mays)",
+        "symptoms": [
+          "Broad, deep green leaves with no necrotic lesions or rust pustules.",
+          "Sturdy stalk and vigorous tassel/ear development."
+        ],
+        "preventive_measures": [
+          "Apply balanced soil nitrogen, phosphorus, and potassium.",
+          "Maintain proper weed management."
+        ],
+        "general_management": [
+          "Ensure adequate soil moisture during flowering and grain fill stages."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ मक्का (Healthy)",
+        "affected_plant": "मक्का",
+        "symptoms": [
+          "गहरी हरी, चौड़ी और स्वस्थ पत्तियां।"
+        ],
+        "preventive_measures": [
+          "उचित पोषण और पानी की व्यवस्था जारी रखें।"
+        ],
+        "general_management": [
+          "खरपतवार नियंत्रण करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான மக்காச்சோளம் (Healthy)",
+        "affected_plant": "மக்காச்சோளம்",
+        "symptoms": [
+          "அடர்ந்த பச்சை நிறமுடைய ஆரோக்கியமான இலைகள்."
+        ],
+        "preventive_measures": [
+          "சரியான உர மேலாண்மை மற்றும் களை கட்டுப்பாடு."
+        ],
+        "general_management": [
+          "பூக்கும் பருவத்தில் நீர் பாய்ச்சவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన మొక్కజొన్న (Healthy)",
+        "affected_plant": "మొక్కజొన్న",
+        "symptoms": [
+          "మచ్చలు లేని దృఢమైన పచ్చని ఆకులు."
+        ],
+        "preventive_measures": [
+          "సమతుల్య ఎరువులను అందించండి."
+        ],
+        "general_management": [
+          "కలుపు మొక్కలు లేకుండా తోటను శుభ్రంగా ఉంచండి."
+        ]
+      }
+    }
+  },
+  "Grape___Black_rot": {
+    "crop": "Grape",
+    "condition": "Black Rot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Grape Black Rot (Guignardia bidwellii)",
+        "affected_plant": "Grapevine (Vitis vinifera)",
+        "symptoms": [
+          "Small, circular reddish-brown spots on leaves bordered by black margins.",
+          "Infected berries shrivel into hard, black, mummified raisins.",
+          "Black elongated lesions on shoots and tendrils."
+        ],
+        "preventive_measures": [
+          "Prune and destroy all mummified berries and infected canes during dormancy.",
+          "Train vines and thin canopies to allow rapid air flow and sunlight penetration.",
+          "Apply protective fungicides (mancozeb, captan) from early shoot development to post-bloom."
+        ],
+        "general_management": [
+          "Avoid wet soil around vine trunks.",
+          "Remove suckers and weeds at vine base."
+        ]
+      },
+      "hi": {
+        "disease_name": "अंगूर का काला सड़न (Black Rot)",
+        "affected_plant": "अंगूर",
+        "symptoms": [
+          "पत्तियों पर लाल-भूरे गोल धब्बे जिनके किनारे काले होते हैं।",
+          "अंगूर के दाने सिकुड़कर काले और सूखे (ममी) बन जाते हैं।"
+        ],
+        "preventive_measures": [
+          "सड़े हुए दानों और टहनियों को काटकर नष्ट करें।",
+          "हवा और धूप के लिए बेलों को खुला रखें।",
+          "फूल आने के समय उचित फफूंदनाशक का छिड़काव करें।"
+        ],
+        "general_management": [
+          "बेल के आसपास खरपतवार न उगने दें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "திராட்சை கருப்பு அழுகல் (Black Rot)",
+        "affected_plant": "திராட்சை",
+        "symptoms": [
+          "இலைகளில் சிவப்பு-பழுப்பு நிற புள்ளிகள்.",
+          "திராட்சைப் பழங்கள் உலர்ந்து காய்ந்து கருப்பாக மாறுதல்."
+        ],
+        "preventive_measures": [
+          "காய்ந்த பழங்கள் மற்றும் பாதிக்கப்பட்ட கொடிகளை அகற்றவும்.",
+          "காற்றோட்டம் கிடைக்க கொடிகளை பந்தலில் சீராகப் படரவிடவும்.",
+          "பூஞ்சைக்கொல்லிகளைப் பயன்படுத்தவும்."
+        ],
+        "general_management": [
+          "கொடிகளின் அடிப்பகுதியில் நீர் தேங்காமல் பார்த்துக் கொள்ளவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ద్రాక్ష బ్లాక్ రాట్ తెగులు (Black Rot)",
+        "affected_plant": "ద్రాక్ష",
+        "symptoms": [
+          "ఆకులపై ఎరుపు-గోధుమ రంగు గుండ్రని మచ్చలు.",
+          "ద్రాక్ష కాయలు కుంచించుకుపోయి నల్లగా ఎండిపోతాయి."
+        ],
+        "preventive_measures": [
+          "ఎండిన కాయలు మరియు సోకిన తీగలను కత్తిరించి నాశనం చేయండి.",
+          "తీగలకు గాలి, ఎండ తగిలేలా పందిరిని సరిచేయండి.",
+          "పూత దశలో రక్షిత శిలీంద్రనాశినులను పిచिकారీ చేయండి."
+        ],
+        "general_management": [
+          "చెట్టు మొదళ్ల వద్ద కలుపు లేకుండా చూసుకోండి."
+        ]
+      }
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "crop": "Grape",
+    "condition": "Esca (Black Measles)",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Esca / Black Measles",
+        "affected_plant": "Grapevine (Vitis vinifera)",
+        "symptoms": [
+          "'Tiger-stripe' chlorotic and necrotic patterns between leaf veins.",
+          "Small dark purple or brown spots on berries ('measles').",
+          "Sudden vine wilting (apoplexy) during hot summer spells."
+        ],
+        "preventive_measures": [
+          "Disinfect pruning shears regularly and avoid large pruning wounds in wet weather.",
+          "Apply wound sealants or biological agents (Trichoderma) to fresh pruning cuts.",
+          "Remove severely infected dead vines from the vineyard."
+        ],
+        "general_management": [
+          "Practice gentle pruning to minimize wood vascular damage."
+        ]
+      },
+      "hi": {
+        "disease_name": "अंगूर का एस्का / ब्लैक मीजल्स (Esca)",
+        "affected_plant": "अंगूर",
+        "symptoms": [
+          "पत्तियों की नसों के बीच बाघ जैसी धारियां (Tiger stripes)।",
+          "अंगूर के दानों पर छोटे काले या बैंगनी धब्बे।",
+          "गर्मी में बेल का अचानक सूख जाना।"
+        ],
+        "preventive_measures": [
+          "छंटाई के औजारों को साफ रखें।",
+          "कटे हुए हिस्सों पर फफूंदनाशक लेप लगाएं।",
+          "बहुत बीमार बेलों को उखाड़कर नष्ट करें।"
+        ],
+        "general_management": [
+          "गीले मौसम में बड़ी छंटाई करने से बचें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "திராட்சை எஸ்கா நோய் (Esca / Black Measles)",
+        "affected_plant": "திராட்சை",
+        "symptoms": [
+          "இலை நரம்புகளுக்கு இடையில் புலி வரிகள் போன்ற தோற்றம்.",
+          "பழங்களில் சிறிய கருஞ்சிவப்பு புள்ளிகள்.",
+          "கொடி திடீரென வாடி காய்ந்து போதல்."
+        ],
+        "preventive_measures": [
+          "கவாத்து செய்யும் கத்திகளை கிருமி நீக்கம் செய்யவும்.",
+          "வெட்டு காயங்களில் பூஞ்சைக்கொல்லி பசையைத் தடவவும்."
+        ],
+        "general_management": [
+          "ஈரப்பதமான வானிலையில் அதிக கவாத்து செய்வதைத் தவிர்க்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ద్రాక్ష ఎస్కా తెగులు (Esca / Black Measles)",
+        "affected_plant": "ద్రాక్ష",
+        "symptoms": [
+          "ఆకుల ఈనెల మధ్య పులి చారల లాంటి మచ్చలు.",
+          "ద్రాక్ష పండ్లపై చిన్న నల్లటి లేదా ఊదా రంగు మచ్చలు.",
+          "వేసవిలో తీగ అకస్మాత్తుగా ఎండిపోవడం."
+        ],
+        "preventive_measures": [
+          "కత్తిరింపు పరికరాలను శుభ్రపరచండి.",
+          "కొమ్మలు కత్తిరించిన గాయాలపై రక్షణ లేపనం పూయండి."
+        ],
+        "general_management": [
+          "తీవ్రంగా సోకిన తీగలను తొలగించండి."
+        ]
+      }
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "crop": "Grape",
+    "condition": "Leaf Blight (Isariopsis)",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+        "affected_plant": "Grapevine (Vitis vinifera)",
+        "symptoms": [
+          "Irregular brown to black necrotic spots with reddish margins on leaves.",
+          "Premature defoliation starting from the vine base.",
+          "Foliar lesions may dry out and crack."
+        ],
+        "preventive_measures": [
+          "Maintain open vine canopies to ensure good air circulation.",
+          "Collect and compost or burn fallen infected leaves.",
+          "Apply broad-spectrum fungicides such as copper oxychloride after pruning."
+        ],
+        "general_management": [
+          "Avoid excessive overhead sprinkler irrigation."
+        ]
+      },
+      "hi": {
+        "disease_name": "अंगूर का पत्ती झुलसा (Leaf Blight)",
+        "affected_plant": "अंगूर",
+        "symptoms": [
+          "पत्तियों पर अनियमित भूरे-काले धब्बे।",
+          "पत्तियों का समय से पहले गिरना।",
+          "धब्बेदार पत्तियां सूखकर फटने लगती हैं।"
+        ],
+        "preventive_measures": [
+          "हवा के लिए बेलों को खुला रखें।",
+          "गिरी हुई पत्तियों को नष्ट करें।",
+          "कॉपर आधारित कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "पत्तियों पर पानी गिरने से रोकें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "திராட்சை இலை கருகல் நோய் (Leaf Blight)",
+        "affected_plant": "திராட்சை",
+        "symptoms": [
+          "இலைகளில் ஒழுங்கற்ற பழுப்பு நிற கருகிய புள்ளிகள்.",
+          "இலைகள் முன்கூட்டியே உதிர்தல்."
+        ],
+        "preventive_measures": [
+          "கொடிகளை நன்கு படரவிடவும்.",
+          "செம்பு பூஞ்சைக்கொல்லியைப் பயன்படுத்தவும்."
+        ],
+        "general_management": [
+          "கீழே விழுந்த இலைகளை அழிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ద్రాక్ష ఆకు మాకుడు తెగులు (Leaf Blight)",
+        "affected_plant": "ద్రాక్ష",
+        "symptoms": [
+          "ఆకులపై క్రమరహిత గోధుమ-నలుపు మచ్చలు.",
+          "ఆకులు ముందుగానే రాలిపోవడం."
+        ],
+        "preventive_measures": [
+          "తోటలో మంచి గాలి ప్రసరణ ఉండేలా చూడండి.",
+          "కాపర్ ఆక్సిక్లోరైడ్ పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "రాలిన ఆకులను తీసివేసి నాశనం చేయండి."
+        ]
+      }
+    }
+  },
+  "Grape___healthy": {
+    "crop": "Grape",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Grape Foliage",
+        "affected_plant": "Grapevine (Vitis vinifera)",
+        "symptoms": [
+          "Clean green leaves free of fungal growth, spots, or scorching.",
+          "Well-formed grape clusters and healthy vine growth."
+        ],
+        "preventive_measures": [
+          "Maintain regular pruning and canopy management.",
+          "Monitor for powdery mildew and berry moth activity."
+        ],
+        "general_management": [
+          "Utilize drip irrigation to keep canopy dry."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ अंगूर (Healthy)",
+        "affected_plant": "अंगूर",
+        "symptoms": [
+          "स्वस्थ और हरी पत्तियां, कोई धब्बा नहीं।"
+        ],
+        "preventive_measures": [
+          "नियमित छंटाई और पोषण जारी रखें।"
+        ],
+        "general_management": [
+          "ड्रिप सिंचाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான திராட்சை இலை (Healthy)",
+        "affected_plant": "திராட்சை",
+        "symptoms": [
+          "புள்ளிகளற்ற பசுமையான இலைகள்."
+        ],
+        "preventive_measures": [
+          "சரியான கவாத்து மற்றும் உரமிடுதல்."
+        ],
+        "general_management": [
+          "சொட்டு நீர் பாசனம் தொடரவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన ద్రాక్ష ఆకు (Healthy)",
+        "affected_plant": "ద్రాక్ష",
+        "symptoms": [
+          "ఎలాంటి తెగుళ్లు లేని ఆరోగ్యకరమైన పచ్చని ఆకులు."
+        ],
+        "preventive_measures": [
+          "క్రమబద్ధమైన కత్తిరింపులు మరియు ఎరువుల నిర్వహణను కొనసాగించండి."
+        ],
+        "general_management": [
+          "డ్రిప్ ఇరిగేషన్ విధానాన్ని వాడండి."
+        ]
+      }
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "crop": "Orange / Citrus",
+    "condition": "Citrus Greening (Huanglongbing)",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Citrus Greening (Huanglongbing / HLB)",
+        "affected_plant": "Sweet Orange / Citrus (Citrus sinensis)",
+        "symptoms": [
+          "Asymmetrical, blotchy mottled yellowing across leaf veins.",
+          "Lopsided, small, bitter fruit that remains green at the blossom end.",
+          "Severe twig dieback and premature fruit drop."
+        ],
+        "preventive_measures": [
+          "Control Asian Citrus Psyllid (ACP) vectors with targeted insecticides or beneficial predators.",
+          "Plant certified disease-free nursery stock exclusively.",
+          "Eradicate and remove confirmed HLB-infected trees immediately to stop spread."
+        ],
+        "general_management": [
+          "Scout citrus groves frequently for psyllid nymphs and characteristic leaf mottle.",
+          "Provide enhanced foliar micronutrients (zinc, iron, manganese) to prolong tree vigor."
+        ]
+      },
+      "hi": {
+        "disease_name": "नींबू वर्गीय का ग्रीनिंग रोग (Citrus Greening)",
+        "affected_plant": "संतरा / नींबू वर्गीय",
+        "symptoms": [
+          "पत्तियों पर असममित पीलापन (ब्लोची मोटल)।",
+          "फल छोटे, कड़वे और नीचे से हरे रह जाते हैं।",
+          "टहनियों का सूखना और फलों का गिरना।"
+        ],
+        "preventive_measures": [
+          "सिट्रस सिल्ला (कीट) को नियंत्रित करें।",
+          "प्रमाणित रोगमुक्त पौधों की ही रोपाई करें।",
+          "संक्रमित पेड़ों को तुरंत हटा दें।"
+        ],
+        "general_management": [
+          "सूक्ष्म पोषक तत्वों (जिंक, आयरन) का छिड़काव करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "எலுமிச்சை சிட்ரஸ் கிரீனிங் நோய் (Huanglongbing)",
+        "affected_plant": "ஆரஞ்சு / சிட்ரஸ்",
+        "symptoms": [
+          "இலை நரம்புகளுக்கு குறுக்கே ஒழுங்கற்ற மஞ்சள் திட்டுகள்.",
+          "பழங்கள் கசப்பாகவும் ஒரு பக்கம் பச்சையாகவும் மாறுதல்.",
+          "கிளைகள் காய்ந்து போதல்."
+        ],
+        "preventive_measures": [
+          "சைலிட் பூச்சிகளைக் கட்டுப்படுத்தவும்.",
+          "சான்றளிக்கப்பட்ட நாற்றுகளை நடவும்.",
+          "பாதிக்கப்பட்ட மரங்களை வேரோடு அழிக்கவும்."
+        ],
+        "general_management": [
+          "நுண்ணூட்டச் சத்துக்களை தெளிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "సిట్రస్ గ్రీనింగ్ తెగులు (Huanglongbing / HLB)",
+        "affected_plant": "నారింజ / బత్తాయి",
+        "symptoms": [
+          "ఆకులపై అసమాన పసుపు పచ్చని మచ్చలు.",
+          "కాయలు చిన్నవిగా, చేదుగా ఉండి ఒకవైపు ఆకుపచ్చగా ఉంటాయి.",
+          "కొమ్మలు ఎండిపోవడం మరియు కాయలు రాలిపోవడం."
+        ],
+        "preventive_measures": [
+          "సైలిడ్ పురుగుల నివారణకు తగిన పురుగుమందులను వాడండి.",
+          "రోగరహిత నర్సరీ మొక్కలనే నాటండి.",
+          "తెగులు సోకిన చెట్లను వెంటనే తొలగించండి."
+        ],
+        "general_management": [
+          "సూక్ష్మ పోషకాలను (జింక్, ఐరన్) అందించండి."
+        ]
+      }
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "crop": "Peach",
+    "condition": "Bacterial Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Peach Bacterial Spot (Xanthomonas arboricola)",
+        "affected_plant": "Peach (Prunus persica)",
+        "symptoms": [
+          "Small, angular, water-soaked leaf spots turning purple-brown.",
+          "Centers of spots drop out, producing a 'shot-hole' appearance.",
+          "Deep, pitted, cracked lesions with gum exudation on fruit."
+        ],
+        "preventive_measures": [
+          "Plant resistant cultivars (e.g., Candor, Dixired).",
+          "Apply preventative copper sprays at late dormancy and oxytetracycline during growing season.",
+          "Avoid excessive nitrogen that causes vigorous late-season vegetative growth."
+        ],
+        "general_management": [
+          "Prune trees properly to facilitate quick canopy drying.",
+          "Plant windbreaks to reduce windblown sand abrasions that introduce bacteria."
+        ]
+      },
+      "hi": {
+        "disease_name": "आड़ू का जीवाणु धब्बा रोग (Bacterial Spot)",
+        "affected_plant": "आड़ू (Peach)",
+        "symptoms": [
+          "पत्तियों पर छोटे कोणीय बैंगनी-भूरे धब्बे।",
+          "धब्बे सूखकर गिर जाते हैं और छलनी जैसे छेद (Shot-hole) बन जाते हैं।",
+          "फलों पर गड्ढे और दरारें।"
+        ],
+        "preventive_measures": [
+          "प्रतिरोधी प्रजातियां लगाएं।",
+          "कॉपर आधारित जीवाणुनाशक का छिड़काव करें।",
+          "संतुलित नाइट्रोजन दें।"
+        ],
+        "general_management": [
+          "हवा और धूप के लिए पेड़ों की छंटाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "பீச் பாக்டீரியா புள்ளி நோய் (Bacterial Spot)",
+        "affected_plant": "பீச்",
+        "symptoms": [
+          "இலைகளில் சிறு துளைகள் (Shot-hole) தோன்றுதல்.",
+          "பழங்களில் பிளவுகள் மற்றும் பிசின் வடிதல்."
+        ],
+        "preventive_measures": [
+          "செம்பு மருந்து தெளிக்கவும்.",
+          "நோய் எதிர்ப்பு ரகங்களை பயிரிடவும்."
+        ],
+        "general_management": [
+          "காற்றோட்டம் கிடைக்க கிளைகளை வெட்டவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "పీచ్ బాక్టీరియల్ స్పాట్ తెగులు (Bacterial Spot)",
+        "affected_plant": "పీచ్",
+        "symptoms": [
+          "ఆకులపై రంధ్రాలు ఏర్పడటం.",
+          "కాయలపై పగుళ్లు మరియు జిగురు కారడం."
+        ],
+        "preventive_measures": [
+          "కాపర్ స్ప్రేలను ఉపయోగించండి.",
+          "తెగులును తట్టుకునే రకాలను ఎంచుకోండి."
+        ],
+        "general_management": [
+          "కొమ్మలను సరిగ్గా కత్తిరించండి."
+        ]
+      }
+    }
+  },
+  "Peach___healthy": {
+    "crop": "Peach",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Peach Foliage",
+        "affected_plant": "Peach (Prunus persica)",
+        "symptoms": [
+          "Smooth, lanceolate green leaves without shot-holes or lesions.",
+          "Healthy branch elongation and vigorous flower bud set."
+        ],
+        "preventive_measures": [
+          "Maintain dormant sprays for leaf curl and scale insects.",
+          "Provide balanced fertilizer and drip irrigation."
+        ],
+        "general_management": [
+          "Monitor tree health following stormy weather."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ आड़ू (Healthy)",
+        "affected_plant": "आड़ू",
+        "symptoms": [
+          "चिकनी, स्वस्थ और हरी पत्तियां।"
+        ],
+        "preventive_measures": [
+          "नियमित देखभाल और संतुलित पोषण जारी रखें।"
+        ],
+        "general_management": [
+          "कीटों की निगरानी करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான பீச் இலை (Healthy)",
+        "affected_plant": "பீச்",
+        "symptoms": [
+          "ஆரோக்கியமான பளபளப்பான இலைகள்."
+        ],
+        "preventive_measures": [
+          "வழக்கமான பராமரிப்பைப் பின்பற்றவும்."
+        ],
+        "general_management": [
+          "சொட்டு நீர் பாசனம் தொடரவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన పీచ్ ఆకు (Healthy)",
+        "affected_plant": "పీచ్",
+        "symptoms": [
+          "ఎలాంటి మచ్చలు లేని ఆరోగ్యకరమైన ఆకులు."
+        ],
+        "preventive_measures": [
+          "సకాలంలో ఎరువులు అందించండి."
+        ],
+        "general_management": [
+          "తోటను క్రమబద్ధంగా గమనించండి."
+        ]
+      }
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "crop": "Bell Pepper / Capsicum",
+    "condition": "Bacterial Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Bacterial Spot (Xanthomonas euvesicatoria)",
+        "affected_plant": "Bell Pepper / Capsicum (Capsicum annuum)",
+        "symptoms": [
+          "Small, water-soaked, circular to irregular lesions on leaves.",
+          "Lesions turn dark brown with yellowish haloes.",
+          "Severe defoliation leading to fruit sunscald."
+        ],
+        "preventive_measures": [
+          "Use hot-water treated or certified disease-free seeds.",
+          "Avoid overhead sprinkler irrigation that splashes bacteria.",
+          "Apply preventative fixed copper bactericides combined with mancozeb."
+        ],
+        "general_management": [
+          "Practice at least a 2-year crop rotation without solanaceous crops (tomatoes, peppers, potatoes).",
+          "Sterilize trellising stakes and greenhouse surfaces."
+        ]
+      },
+      "hi": {
+        "disease_name": "शिमला मिर्च का जीवाणु धब्बा (Bacterial Spot)",
+        "affected_plant": "शिमला मिर्च / मिर्च",
+        "symptoms": [
+          "पत्तियों पर गोल या टेढ़े-मेढ़े गहरे भूरे धब्बे जिनके चारों ओर पीला घेरा होता है।",
+          "पत्तियों का झड़ना जिससे फलों पर धूप से झुलसन (Sunscald) हो जाती है।"
+        ],
+        "preventive_measures": [
+          "प्रमाणित रोगमुक्त बीजों का उपयोग करें।",
+          "ऊपर से फव्वारा सिंचाई से बचें।",
+          "कॉपर आधारित दवाओं का छिड़काव करें।"
+        ],
+        "general_management": [
+          "फसल चक्र अपनाएं (2 वर्ष तक मिर्च/टमाटर न लगाएं)।"
+        ]
+      },
+      "ta": {
+        "disease_name": "குடைமிளகாய் பாக்டீரியா புள்ளி நோய் (Bacterial Spot)",
+        "affected_plant": "குடைமிளகாய் / மிளகாய்",
+        "symptoms": [
+          "இலைகளில் நீர் ஊறிய பழுப்பு நிற புள்ளிகள்.",
+          "இலைகள் உதிர்ந்து காய்கள் சூரிய ஒளியால் சேதமடைதல்."
+        ],
+        "preventive_measures": [
+          "நோய் எதிர்ப்பு விதைகளைப் பயன்படுத்தவும்.",
+          "தெளிப்பு நீர் பாசனத்தைத் தவிர்க்கவும்.",
+          "செம்பு மருந்துகளை தெளிக்கவும்."
+        ],
+        "general_management": [
+          "பயிர் சுழற்சியைப் பின்பற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "బెల్ పెప్పర్ బాక్టీరియల్ స్పాట్ తెగులు (Bacterial Spot)",
+        "affected_plant": "బెల్ పెప్పర్ / క్యాప్సికమ్",
+        "symptoms": [
+          "ఆకులపై నీరు కారినట్లు ఉండే చిన్న గోధుమ రంగు మచ్చలు.",
+          "ఆకులు రాలిపోయి కాయలు ఎండ దెబ్బకు గురికావడం."
+        ],
+        "preventive_measures": [
+          "శుద్ధి చేసిన విత్తనాలను వాడండి.",
+          "ఆకులపై నీరు చల్లే పద్ధతులను ఆపండి.",
+          "కాపర్ ఆధారిత మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "టమోటా మరియు మిరప లేని పంట మార్పిడిని పాటించండి."
+        ]
+      }
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "crop": "Bell Pepper / Capsicum",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Bell Pepper Foliage",
+        "affected_plant": "Bell Pepper / Capsicum (Capsicum annuum)",
+        "symptoms": [
+          "Lush, dark green, glossy leaves with entire margins.",
+          "Healthy flower set and strong stem development."
+        ],
+        "preventive_measures": [
+          "Maintain balanced calcium and magnesium nutrition to prevent blossom end rot.",
+          "Maintain steady soil moisture using mulch and drip irrigation."
+        ],
+        "general_management": [
+          "Scout underside of leaves regularly for thrips and mites."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ शिमला मिर्च (Healthy)",
+        "affected_plant": "शिमला मिर्च",
+        "symptoms": [
+          "हरी, चमकदार और स्वस्थ पत्तियां।"
+        ],
+        "preventive_measures": [
+          "कैल्शियम और मैग्नीशियम का संतुलित उपयोग करें।",
+          "ड्रिप सिंचाई का उपयोग करें।"
+        ],
+        "general_management": [
+          "कीटों की निगरानी रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான குடைமிளகாய் இலை (Healthy)",
+        "affected_plant": "குடைமிளகாய்",
+        "symptoms": [
+          "பளபளப்பான பச்சை இலைகள்."
+        ],
+        "preventive_measures": [
+          "சமச்சீர் உரம் மற்றும் சொட்டு நீர் பாசனம்."
+        ],
+        "general_management": [
+          "பூச்சிகளைத் தொடர்ந்து கண்காணிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన క్యాప్సికమ్ ఆకు (Healthy)",
+        "affected_plant": "క్యాప్సికమ్ / బెల్ పెప్పర్",
+        "symptoms": [
+          "ఎలాంటి మచ్చలు లేని సహజమైన పచ్చని ఆకులు."
+        ],
+        "preventive_measures": [
+          "కాల్షియం మరియు నీటి యాజమాన్యాన్ని సరిగ్గా నిర్వహించండి."
+        ],
+        "general_management": [
+          "రసం పీల్చే పురుగులను గమనిస్తూ ఉండండి."
+        ]
+      }
+    }
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "condition": "Early Blight",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Potato Early Blight (Alternaria solani)",
+        "affected_plant": "Potato (Solanum tuberosum)",
+        "symptoms": [
+          "Circular to angular brown lesions showing characteristic concentric rings ('target-board' pattern).",
+          "Older bottom leaves infected first, turning yellow around the spots.",
+          "Sunken, dark, dry rot lesions on potato tubers."
+        ],
+        "preventive_measures": [
+          "Plant certified, disease-free seed tubers.",
+          "Avoid plant stress through adequate irrigation and balanced nitrogen fertility.",
+          "Apply preventive fungicides (chlorothalonil, mancozeb) starting before row closure."
+        ],
+        "general_management": [
+          "Practice 3-year crop rotation away from solanaceous species.",
+          "Kill vines completely before harvesting to reduce tuber infection."
+        ]
+      },
+      "hi": {
+        "disease_name": "आलू का अगेती झुलसा (Early Blight)",
+        "affected_plant": "आलू",
+        "symptoms": [
+          "पत्तियों पर संकेंद्री छल्लेदार (निशाने के बोर्ड जैसे) भूरे धब्बे।",
+          "निचली पत्तियां पहले पीली पड़कर सूखने लगती हैं।",
+          "कंदों पर धंसे हुए सूखे काले धब्बे।"
+        ],
+        "preventive_measures": [
+          "प्रमाणित रोगमुक्त बीज कंदों का उपयोग करें।",
+          "संतुलित खाद और नियमित सिंचाई दें।",
+          "लक्षण दिखने पर मैंकोजेब या क्लोरोथैलोनिल का छिड़काव करें।"
+        ],
+        "general_management": [
+          "3 साल का फसल चक्र अपनाएं।",
+          "खुदाई से पहले बेलों को सुखा लें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "உருளைக்கிழங்கு ஆரம்பகால கருகல் நோய் (Early Blight)",
+        "affected_plant": "உருளைக்கிழங்கு",
+        "symptoms": [
+          "இலைகளில் வளைய வடிவிலான பழுப்பு நிற புள்ளிகள் (Target-board).",
+          "கீழ் இலைகள் முதலில் மஞ்சள் நிறமாகி உதிர்தல்."
+        ],
+        "preventive_measures": [
+          "சான்றளிக்கப்பட்ட விதைக்கிழங்குகளைப் பயன்படுத்தவும்.",
+          "தகுந்த பூஞ்சைக்கொல்லியை தெளிக்கவும்."
+        ],
+        "general_management": [
+          "3 ஆண்டு பயிர் சுழற்சியைப் பின்பற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "బంగాళాదుంప ముందస్తు మాకుడు తెగులు (Early Blight)",
+        "affected_plant": "బంగాళాదుంప",
+        "symptoms": [
+          "ఆకులపై వలయాకారపు గోధుమ రంగు మచ్చలు (Target-board).",
+          "కింది ఆకులు మొదట పసుపు రంగులోకి మారి ఎండిపోవడం."
+        ],
+        "preventive_measures": [
+          "సర్టిఫైడ్ విత్తన దుంపలను వాడండి.",
+          "సిఫార్సు చేసిన మాంకోజెబ్ వంటి శిలీంద్రనాశినులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "3 సంవత్సరాల పంట మార్పిడిని పాటించండి."
+        ]
+      }
+    }
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "condition": "Late Blight",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Potato Late Blight (Phytophthora infestans)",
+        "affected_plant": "Potato (Solanum tuberosum)",
+        "symptoms": [
+          "Water-soaked, dark brown to black irregular lesions on leaves and stems.",
+          "Delicate white fungal-like growth visible on the underside of leaves in cool, moist conditions.",
+          "Rapid collapse of foliage and brown granular rot inside tubers."
+        ],
+        "preventive_measures": [
+          "Plant resistant certified potato seed varieties.",
+          "Destroy cull piles of waste potatoes before planting season.",
+          "Apply preventative systemic and contact fungicides (mancozeb, cymoxanil, dimethomorph) before humid rain periods."
+        ],
+        "general_management": [
+          "Hilling soil around plants to prevent spores washing down into tubers.",
+          "Monitor blight forecasting weather services."
+        ]
+      },
+      "hi": {
+        "disease_name": "आलू का पछेती झुलसा (Late Blight)",
+        "affected_plant": "आलू",
+        "symptoms": [
+          "पत्तियों और तनों पर पानी से भीगे हुए काले-भूरे धब्बे।",
+          "ठंडे और नम मौसम में पत्तियों के नीचे सफेद फफूंद।",
+          "पूरा पौधा तेजी से झुलस जाता है और कंद सड़ जाते हैं।"
+        ],
+        "preventive_measures": [
+          "प्रतिरोधी प्रमाणित बीजों का चयन करें।",
+          "खेत के पास सड़े आलू के ढेर न लगाएं।",
+          "बारिश या कोहरे से पहले फफूंदनाशक का छिड़काव करें।"
+        ],
+        "general_management": [
+          "पौधों पर मिट्टी अच्छी तरह चढ़ाएं ताकि कंद सुरक्षित रहें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "உருளைக்கிழங்கு பிற்கால கருகல் நோய் (Late Blight)",
+        "affected_plant": "உருளைக்கிழங்கு",
+        "symptoms": [
+          "இலைகளில் ஈரப்பதமான கருப்பு நிற கருகிய புள்ளிகள்.",
+          "இலைகளின் அடிப்பகுதியில் வெள்ளை நிற பூஞ்சை வளர்தல்.",
+          "செடிகள் வேகமாக அழுகிப் போதல்."
+        ],
+        "preventive_measures": [
+          "நோய் எதிர்ப்பு விதைக்கிழங்குகளை நடவும்.",
+          "பழைய அழுகிய கிழங்குகளை அப்புறப்படுத்தவும்.",
+          "முன்னெச்சரிக்கையாக பூஞ்சைக்கொல்லி தெளிக்கவும்."
+        ],
+        "general_management": [
+          "கிழங்குகளுக்கு மண் அணைக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "బంగాళాదుంప ఆలస్యపు మాకుడు తెగులు (Late Blight)",
+        "affected_plant": "బంగాళాదుంప",
+        "symptoms": [
+          "ఆకులు, కాండాలపై నీటి మచ్చల వంటి నల్లటి కుళ్లు.",
+          "ఆకుల అడుగున తెల్లటి బూజు లాంటి శిలీంధ్రం.",
+          "మొక్కలు వేగంగా మాడిపోయి దుంపలు కుళ్ళిపోతాయి."
+        ],
+        "preventive_measures": [
+          "రోగ నిరోధక విత్తన దుంపలను వాడండి.",
+          "చెత్త కుప్పలను తొలగించండి.",
+          "వాతావరణంలో తేమ ఎక్కువగా ఉన్నప్పుడు రక్షిత మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "దుంపలు బయటకు కనిపించకుండా మట్టిని బాగా ఎగదోయండి."
+        ]
+      }
+    }
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Potato Foliage",
+        "affected_plant": "Potato (Solanum tuberosum)",
+        "symptoms": [
+          "Robust, dark green leaves free of blights, mosaic, or leaf roll.",
+          "Healthy canopy closure and flower emergence."
+        ],
+        "preventive_measures": [
+          "Maintain balanced hill fertilization and proper irrigation scheduling.",
+          "Scout weekly for Colorado potato beetles and aphids."
+        ],
+        "general_management": [
+          "Practice hilling to protect developing tubers from sunlight."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ आलू (Healthy)",
+        "affected_plant": "आलू",
+        "symptoms": [
+          "गहरे हरे और स्वस्थ पत्ते, कोई झुलसा या धब्बा नहीं।"
+        ],
+        "preventive_measures": [
+          "उचित सिंचाई और समय पर मिट्टी चढ़ाना जारी रखें।"
+        ],
+        "general_management": [
+          "कीटों की निगरानी रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான உருளைக்கிழங்கு இலை (Healthy)",
+        "affected_plant": "உருளைக்கிழங்கு",
+        "symptoms": [
+          "நோயற்ற அடர் பச்சை இலைகள்."
+        ],
+        "preventive_measures": [
+          "சரியான மண் அணைப்பு மற்றும் நீர்ப்பாசனம்."
+        ],
+        "general_management": [
+          "பூச்சி தாக்குதலை கண்காணிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన బంగాళాదుంప ఆకు (Healthy)",
+        "affected_plant": "బంగాళాదుంప",
+        "symptoms": [
+          "మచ్చలు లేని సహజమైన ఆరోగ్యకరమైన ఆకులు."
+        ],
+        "preventive_measures": [
+          "సకాలంలో నీరు మరియు మట్టిని ఎగదోయండి."
+        ],
+        "general_management": [
+          "కీటకాల నివారణను గమనించండి."
+        ]
+      }
+    }
+  },
+  "Raspberry___healthy": {
+    "crop": "Raspberry",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Raspberry Foliage",
+        "affected_plant": "Raspberry (Rubus idaeus)",
+        "symptoms": [
+          "Compound green leaves with serrated margins, free from yellow rust or cane blight.",
+          "Vigorous primocanes and floricanes."
+        ],
+        "preventive_measures": [
+          "Maintain row spacing and trellis systems for ventilation.",
+          "Remove spent floricanes after fruiting."
+        ],
+        "general_management": [
+          "Drip irrigate to prevent root rot."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ रास्पबेरी (Healthy)",
+        "affected_plant": "रास्पबेरी",
+        "symptoms": [
+          "स्वस्थ हरी पत्तियां, कोई रोग नहीं।"
+        ],
+        "preventive_measures": [
+          "उचित छंटाई और सहारा दें।"
+        ],
+        "general_management": [
+          "ड्रिप सिंचाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான ராஸ்பெர்ரி இலை (Healthy)",
+        "affected_plant": "ராஸ்பெர்ரி",
+        "symptoms": [
+          "ஆரோக்கியமான பச்சை இலைகள்."
+        ],
+        "preventive_measures": [
+          "முறையான கொடி மேலாண்மை."
+        ],
+        "general_management": [
+          "சொட்டு நீர் பாசனம் தொடரவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన రాస్ప్బెర్రీ ఆకు (Healthy)",
+        "affected_plant": "రాస్ప్బెర్రీ",
+        "symptoms": [
+          "ఎలాంటి తెగుళ్లు లేని ఆరోగ్యకరమైన ఆకులు."
+        ],
+        "preventive_measures": [
+          "మొక్కల మధ్య సరైన దూరం పాటించండి."
+        ],
+        "general_management": [
+          "డ్రిప్ ఇరిగేషన్ ద్వారా నీటిని అందించండి."
+        ]
+      }
+    }
+  },
+  "Soybean___healthy": {
+    "crop": "Soybean",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Soybean Foliage",
+        "affected_plant": "Soybean (Glycine max)",
+        "symptoms": [
+          "Trifoliolate, healthy deep green leaves without rust, frogeye, or bacterial pustules.",
+          "Uniform nodulation and vigorous pod set."
+        ],
+        "preventive_measures": [
+          "Rotate crops with non-legumes like corn or wheat.",
+          "Inoculate seeds with Bradyrhizobium japonicum before planting."
+        ],
+        "general_management": [
+          "Monitor canopy during humid reproductive stages."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ सोयाबीन (Healthy)",
+        "affected_plant": "सोयाबीन",
+        "symptoms": [
+          "गहरे हरे रंग की तीन पत्तियां, कोई धब्बा नहीं।"
+        ],
+        "preventive_measures": [
+          "फसल चक्र अपनाएं।",
+          "बीज को राइजोबियम से उपचारित करें।"
+        ],
+        "general_management": [
+          "नमी और पोषण का ध्यान रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான சோயாபீன் இலை (Healthy)",
+        "affected_plant": "சோயாபீன்",
+        "symptoms": [
+          "பசுமையான ஆரோக்கியமான இலைகள்."
+        ],
+        "preventive_measures": [
+          "பயிர் சுழற்சி மற்றும் விதை நேர்த்தி."
+        ],
+        "general_management": [
+          "தொடர்ந்து கண்காணிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన సోయాబీన్ ఆకు (Healthy)",
+        "affected_plant": "సోయాబీన్",
+        "symptoms": [
+          "మచ్చలు లేని సహజమైన పచ్చని ఆకులు."
+        ],
+        "preventive_measures": [
+          "రైజోబియంతో విత్తన శుద్ధి చేయండి.",
+          "పంట మార్పిడిని పాటించండి."
+        ],
+        "general_management": [
+          "తేమ మరియు పోషకాలను సరిగ్గా అందించండి."
+        ]
+      }
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "crop": "Squash / Cucurbits",
+    "condition": "Powdery Mildew",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Squash Powdery Mildew (Podosphaera xanthii)",
+        "affected_plant": "Squash / Zucchini (Cucurbita pepo)",
+        "symptoms": [
+          "Talcum powder-like white spots that spread across leaf surfaces and petioles.",
+          "Infected leaves turn yellow, brown, and become brittle and dry.",
+          "Premature foliage loss leads to fruit sunscald and diminished flavor."
+        ],
+        "preventive_measures": [
+          "Plant resistant cucurbit varieties.",
+          "Provide adequate plant spacing to facilitate rapid canopy drying.",
+          "Apply potassium bicarbonate, sulfur, or approved horticultural oil sprays at initial symptoms."
+        ],
+        "general_management": [
+          "Avoid excessive nitrogen fertilization.",
+          "Do not compost infected plant residues at season end."
+        ]
+      },
+      "hi": {
+        "disease_name": "कद्दू वर्गीय का चूर्णिल आसिता (Powdery Mildew)",
+        "affected_plant": "कद्दू / तोरी / स्क्वैश",
+        "symptoms": [
+          "पत्तियों और डंठलों पर सफेद पाउडर जैसे धब्बे।",
+          "पत्तियां पीली होकर सूखने और टूटने लगती हैं।"
+        ],
+        "preventive_measures": [
+          "प्रतिरोधी किस्मों की बुवाई करें।",
+          "पौधों के बीच पर्याप्त दूरी रखें।",
+          "सल्फर या पोटेशियम बाइकार्बोनेट का छिड़काव करें।"
+        ],
+        "general_management": [
+          "अधिक नाइट्रोजन खाद न डालें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "பூசணி சாம்பல் நோய் (Powdery Mildew)",
+        "affected_plant": "பூசணி / சுரைக்காய்",
+        "symptoms": [
+          "இலைகளில் வெள்ளை பவுடர் போன்ற படலம்.",
+          "இலைகள் காய்ந்து முறிந்து போதல்."
+        ],
+        "preventive_measures": [
+          "நோய் எதிர்ப்பு ரகங்களை பயிரிடவும்.",
+          "செடிகளுக்கு இடையே போதிய இடைவெளி விடவும்.",
+          "கந்தக மருந்து தெளிக்கவும்."
+        ],
+        "general_management": [
+          "அதிக தழைச்சத்தை தவிர்க்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "గుమ్మడి బూడిద తెగులు (Powdery Mildew)",
+        "affected_plant": "గుమ్మడి / దోస జాతులు",
+        "symptoms": [
+          "ఆకులపై తెల్లటి పౌడర్ లాంటి పొర.",
+          "ఆకులు పసుపు రంగులోకి మారి ఎండిపోవడం."
+        ],
+        "preventive_measures": [
+          "తెగులును తట్టుకునే రకాలను వాడండి.",
+          "మొక్కల మధ్య తగినంత దూరం ఉంచండి.",
+          "గంధకం లేదా సిఫార్సు చేసిన మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "అధిక నత్రజని ఎరువులను నివారించండి."
+        ]
+      }
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "crop": "Strawberry",
+    "condition": "Leaf Scorch",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Strawberry Leaf Scorch (Diplocarpon earlianum)",
+        "affected_plant": "Strawberry (Fragaria × ananassa)",
+        "symptoms": [
+          "Small, irregular, dark purple to brownish blotches on upper leaf surfaces.",
+          "Lesions lack the white center characteristic of common leaf spot.",
+          "Margins scorch, curl upward, and foliage dies prematurely."
+        ],
+        "preventive_measures": [
+          "Plant certified disease-free, resistant strawberry crowns.",
+          "Renovate strawberry beds after harvest by mowing and removing old foliage.",
+          "Apply preventative fungicides (captan, copper) early in the spring season."
+        ],
+        "general_management": [
+          "Use drip irrigation to prevent wet leaf conditions.",
+          "Ensure beds have good soil drainage."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्ट्रॉबेरी का पत्ती झुलसा (Leaf Scorch)",
+        "affected_plant": "स्ट्रॉबेरी",
+        "symptoms": [
+          "पत्तियों की ऊपरी सतह पर गहरे बैंगनी-भूरे अनियमित धब्बे।",
+          "पत्तियों के किनारे जलकर ऊपर की ओर मुड़ने लगते हैं।"
+        ],
+        "preventive_measures": [
+          "प्रमाणित रोगमुक्त पौधे लगाएं।",
+          "फसल के बाद पुरानी पत्तियों को हटा दें।",
+          "वसंत में कॉपर आधारित कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "ड्रिप सिंचाई का उपयोग करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஸ்ட்ராபெர்ரி இலை கருகல் நோய் (Leaf Scorch)",
+        "affected_plant": "ஸ்ட்ராபெர்ரி",
+        "symptoms": [
+          "இலைகளில் கருஞ்சிவப்பு நிற புள்ளிகள்.",
+          "இலை விளிம்புகள் தீய்ந்து சுருங்குதல்."
+        ],
+        "preventive_measures": [
+          "சான்றளிக்கப்பட்ட நாற்றுகளை நடவும்.",
+          "பழைய இலைகளை வெட்டி அகற்றவும்."
+        ],
+        "general_management": [
+          "சொட்டு நீர் பாசனம் பயன்படுத்தவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "స్ట్రాబెర్రీ ఆకు ఎండిపోవు తెగులు (Leaf Scorch)",
+        "affected_plant": "స్ట్రాబెర్రీ",
+        "symptoms": [
+          "ఆకులపై ముదురు ఊదా రంగు మచ్చలు.",
+          "ఆకుల అంచులు మాడిపోయి పైకి ముడుచుకుపోవడం."
+        ],
+        "preventive_measures": [
+          "రోగరహిత నారు మొక్కలను ఎంచుకోండి.",
+          "పాత మరియు ఎండిన ఆకులను తీసివేయండి."
+        ],
+        "general_management": [
+          "డ్రిప్ ఇరిగేషన్ ద్వారా నీటిని అందించండి."
+        ]
+      }
+    }
+  },
+  "Strawberry___healthy": {
+    "crop": "Strawberry",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Strawberry Foliage",
+        "affected_plant": "Strawberry (Fragaria × ananassa)",
+        "symptoms": [
+          "Vibrant, dark green trifoliate leaves with no purple blotches or powdery mildew.",
+          "Sturdy crowns and healthy runner production."
+        ],
+        "preventive_measures": [
+          "Maintain straw or plastic mulch to keep fruit clean and conserve moisture.",
+          "Provide balanced fertilizer and timely weed control."
+        ],
+        "general_management": [
+          "Inspect crowns after heavy rains."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ स्ट्रॉबेरी (Healthy)",
+        "affected_plant": "स्ट्रॉबेरी",
+        "symptoms": [
+          "हरी, चमकदार और स्वस्थ पत्तियां।"
+        ],
+        "preventive_measures": [
+          "स्ट्रॉ मल्चिंग का उपयोग करें।",
+          "उचित पोषण और पानी दें।"
+        ],
+        "general_management": [
+          "नियमित निरीक्षण करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான ஸ்ட்ராபெர்ரி இலை (Healthy)",
+        "affected_plant": "ஸ்ட்ராபெர்ரி",
+        "symptoms": [
+          "பசுமையான ஆரோக்கியமான இலைகள்."
+        ],
+        "preventive_measures": [
+          "வைக்கோல் மூடாக்கு போடவும்."
+        ],
+        "general_management": [
+          "களைகளை அகற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన స్ట్రాబెర్రీ ఆకు (Healthy)",
+        "affected_plant": "స్ట్రాబెర్రీ",
+        "symptoms": [
+          "ఎలాంటి మచ్చలు లేని సహజమైన ఆకులు."
+        ],
+        "preventive_measures": [
+          "మల్చింగ్ పద్ధతిని వాడండి."
+        ],
+        "general_management": [
+          "క్రమబద్ధంగా నీటిని అందించండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "crop": "Tomato",
+    "condition": "Bacterial Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Bacterial Spot (Xanthomonas spp.)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Small, dark, water-soaked circular lesions on leaves, surrounded by yellow halos.",
+          "Lesion centers dry out and crack or tear, leaving ragged holes.",
+          "Raised, scab-like, blistered spots on developing green fruit."
+        ],
+        "preventive_measures": [
+          "Use only certified pathogen-free seeds or hot-water treated seeds.",
+          "Avoid overhead sprinkler irrigation; always irrigate via ground drip lines.",
+          "Apply protective copper-based bactericides combined with mancozeb during early season."
+        ],
+        "general_management": [
+          "Do not work in fields when foliage is wet from dew or rain.",
+          "Rotate fields away from solanaceous crops for a minimum of 2 years."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का जीवाणु धब्बा (Bacterial Spot)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर छोटे काले-भूरे पानीदार धब्बे, जिनके चारों ओर पीला घेरा होता है।",
+          "धब्बे सूखकर फट जाते हैं जिससे पत्ती में छेद हो जाते हैं।",
+          "हरे फलों पर उभरे हुए खुरदुरे छाले जैसे दाने।"
+        ],
+        "preventive_measures": [
+          "प्रमाणित रोगमुक्त या उपचारित बीजों का उपयोग करें।",
+          "पत्तियों पर ऊपर से पानी छिड़कने से बचें (ड्रिप सिंचाई अपनाएं)।",
+          "कॉपर आधारित दवा और मैंकोजेब का छिड़काव करें।"
+        ],
+        "general_management": [
+          "गीले पौधों के बीच काम न करें।",
+          "कम से कम 2 साल का फसल चक्र अपनाएं।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி பாக்டீரியா புள்ளி நோய் (Bacterial Spot)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளில் மஞ்சள் நிற வட்டங்களுடன் கூடிய சிறிய கருமையான புள்ளிகள்.",
+          "இலைகளில் கிழிந்த ஓட்டைகள் தோன்றுதல்.",
+          "பச்சைத் தக்காளிகளில் கரடுமுரடான கொப்புளங்கள் ஏற்படுதல்."
+        ],
+        "preventive_measures": [
+          "நோய் எதிர்ப்பு திறன் கொண்ட அல்லது விதை நேர்த்தி செய்த விதைகளைப் பயன்படுத்தவும்.",
+          "இலைகளில் நீர் தெளிப்பதைத் தவிர்த்து, சொட்டு நீர் பாசனம் செய்யவும்.",
+          "செம்பு மருந்துகளுடன் மேன்கோசெப் கலந்து தெளிக்கவும்."
+        ],
+        "general_management": [
+          "இலைகள் ஈரமாக இருக்கும்போது வயலில் வேலை செய்வதைத் தவிர்க்கவும்.",
+          "2 ஆண்டுகள் பயிர் சுழற்சி முறையைப் பின்பற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా బాక్టీరియల్ స్పాట్ తెగులు (Bacterial Spot)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులపై పసుపు రంగు వలయంతో కూడిన నల్లటి చిన్న మచ్చలు.",
+          "మచ్చలు ఎండిపోయి ఆకులు చిరిగిపోతాయి.",
+          "పచ్చి కాయలపై పొక్కుల వంటి గట్టి మచ్చలు ఏర్పడతాయి."
+        ],
+        "preventive_measures": [
+          "విత్తన శుద్ధి చేసిన విత్తనాలను మాత్రమే నాటండి.",
+          "ఆకులపై నీరు పడేలా కాకుండా డ్రిప్ ద్వారా నీటిని అందించండి.",
+          "కాపర్ మందులు మరియు మాంకోజెబ్ కలిపి పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "ఆకులు తడిగా ఉన్నప్పుడు తోట పనులు చేయవద్దు.",
+          "2 సంవత్సరాల పాటు టమోటా లేని పంట మార్పిడి చేయండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "condition": "Early Blight",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Early Blight (Alternaria linariae / solani)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Circular dark brown spots showing distinct concentric rings resembling a target board.",
+          "Yellowing (chlorosis) of leaf tissue surrounding the spots.",
+          "Progresses from the lower canopy upwards, causing extensive defoliation."
+        ],
+        "preventive_measures": [
+          "Mulch around plant bases to prevent soil-borne fungal spores splashing onto lower leaves.",
+          "Stake or trellis tomato plants to keep foliage off the ground and enhance airflow.",
+          "Apply preventative fungicides (chlorothalonil, mancozeb, copper) when first fruit cluster forms."
+        ],
+        "general_management": [
+          "Prune off lower foliage (bottom 12 inches) once plants are established.",
+          "Remove and safely burn or discard infected leaves; do not add to compost."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का अगेती झुलसा (Early Blight)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर निशाने के बोर्ड जैसे संकेंद्री छल्लेदार भूरे धब्बे।",
+          "धब्बों के चारों ओर पत्तियां पीली पड़ जाती हैं।",
+          "रोग नीचे की पत्तियों से शुरू होकर ऊपर की ओर बढ़ता है।"
+        ],
+        "preventive_measures": [
+          "पौधों के आधार पर मल्चिंग करें ताकि मिट्टी के छींटे पत्तियों पर न पड़ें।",
+          "पौधों को सहारा (बांस/तार) दें ताकि वे जमीन से ऊपर रहें।",
+          "समय पर मैंकोजेब या कॉपर कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "निचली पुरानी पत्तियों को समय-समय पर काटते रहें।",
+          "संक्रमित पत्तियों को एकत्र कर खेत से दूर नष्ट करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி ஆரம்பகால கருகல் நோய் (Early Blight)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளில் வளைய வடிவிலான பழுப்பு நிற புள்ளிகள் (Target-board).",
+          "புள்ளிகளைச் சுற்றி இலை மஞ்சள் நிறமாக மாறுதல்.",
+          "கீழ் இலைகளிலிருந்து மேல் நோக்கி நோய் பரவுதல்."
+        ],
+        "preventive_measures": [
+          "மண் தெறிக்காமல் இருக்க மூடாக்கு இடவும்.",
+          "செடிகளுக்கு முட்டு கொடுத்து செங்குத்தாக வளர்க்கவும்.",
+          "மேன்கோசெப் அல்லது செம்பு பூஞ்சைக்கொல்லியைத் தெளிக்கவும்."
+        ],
+        "general_management": [
+          "கீழ் மட்ட இலைகளை கவாத்து செய்து அகற்றவும்.",
+          "பாதிக்கப்பட்ட இலைகளை உடனே அப்புறப்படுத்தவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా ముందస్తు మాకుడు తెగులు (Early Blight)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులపై వలయాకారపు గోధుమ రంగు మచ్చలు (గురి చూసే బోర్డు లాంటి గుర్తులు).",
+          "మచ్చల చుట్టూ ఆకు పసుపు రంగులోకి మారుతుంది.",
+          "కింది ఆకుల నుండి ప్రారంభమై పైకి వ్యాపిస్తుంది."
+        ],
+        "preventive_measures": [
+          "మట్టి ఆకులపై పడకుండా మల్చింగ్ చేయండి.",
+          "మొక్కలు నేలను తాకకుండా కర్రల ఆసరా కల్పించండి.",
+          "క్లోరోథలోనిల్ లేదా మాంకోజెబ్ మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "మొక్క కింది భాగంలో ఉన్న ఆకులను తీసివేయండి.",
+          "తెగులు సోకిన ఆకులను నాశనం చేయండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "condition": "Late Blight",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Late Blight (Phytophthora infestans)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Large, irregular, water-soaked greasy gray-green patches on leaves and stems.",
+          "A delicate white fungal felt visible on the underside of lesions in humid conditions.",
+          "Firm, rough, greasy brown patches on tomato fruit."
+        ],
+        "preventive_measures": [
+          "Select resistant tomato cultivars (e.g., Mountain Magic, Defiant).",
+          "Avoid wet canopy conditions; ensure plants receive maximum sunlight.",
+          "Apply preventive protectant or systemic fungicides (mancozeb, cymoxanil, metalaxyl) before prolonged rainy periods."
+        ],
+        "general_management": [
+          "Quickly destroy heavily infected plants by bagging to prevent airborne spore escape.",
+          "Do not plant tomatoes immediately adjacent to potato fields."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का पछेती झुलसा (Late Blight)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों और तनों पर पानी से भीगे हुए बड़े काले-भूरे धब्बे।",
+          "पत्तियों के नीचे सफेद फफूंद दिखाई देना (विशेषकर नम मौसम में)।",
+          "टमाटर के फलों पर सख्त भूरे धब्बे और सड़न।"
+        ],
+        "preventive_measures": [
+          "रोग प्रतिरोधी प्रजातियां चुनें।",
+          "पौधों को अच्छी धूप और हवा मिलने दें।",
+          "कोहरे और बारिश के समय मेटालेक्सिल या मैंकोजेब का छिड़काव करें।"
+        ],
+        "general_management": [
+          "संक्रमित पौधों को तुरंत उखाड़कर नष्ट करें।",
+          "आलू के खेत के पास टमाटर न लगाएं।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி பிற்கால கருகல் நோய் (Late Blight)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகள் மற்றும் தண்டுகளில் ஈரமான கருப்பு-பழுப்பு நிற பெரிய திட்டுகள்.",
+          "இலைகளின் அடியில் வெள்ளை நிற பூஞ்சை வளர்தல்.",
+          "காய்களில் கடினமான பழுப்பு நிற அழுகல் ஏற்படுதல்."
+        ],
+        "preventive_measures": [
+          "நோய் எதிர்ப்பு ரகங்களைத் தேர்ந்தெடுக்கவும்.",
+          "சூரிய ஒளி மற்றும் காற்றோட்டம் உள்ள இடங்களில் நடவு செய்யவும்.",
+          "மழைக் காலத்திற்கு முன் முறையான பூஞ்சைக்கொல்லியை தெளிக்கவும்."
+        ],
+        "general_management": [
+          "பாதிக்கப்பட்ட செடிகளை பிடுங்கி எரிக்கவும்.",
+          "உருளைக்கிழங்கு பயிருக்கு அருகில் பயிரிட வேண்டாம்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా ఆలస్యపు మాకుడు తెగులు (Late Blight)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులు మరియు కాండాలపై నీటితో తడిసిన నల్లటి మచ్చలు.",
+          "తేమ వాతావరణంలో ఆకుల అడుగున తెల్లటి బూజు.",
+          "కాయలపై గట్టి గోధుమ రంగు కుళ్లు ఏర్పడటం."
+        ],
+        "preventive_measures": [
+          "తెగులును తట్టుకునే రకాలను నాటండి.",
+          "మొక్కలకు తగినంత సూర్యరశ్మి అందేలా చూడండి.",
+          "వర్షాలు లేదా పొగమంచుకు ముందుగానే రక్షక మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "తీవ్రంగా సోకిన మొక్కలను పీకి నాశనం చేయండి.",
+          "బంగాళాదుంప పంట పక్కన టమోటా నాటవద్దు."
+        ]
+      }
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "crop": "Tomato",
+    "condition": "Leaf Mold",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Leaf Mold (Passalora fulva)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Pale green to yellow diffuse spots on upper leaf surfaces.",
+          "Dense olive-green to grayish velvety fungal mold on lower leaf surfaces.",
+          "Infected leaves wither, turn brown, and drop prematurely."
+        ],
+        "preventive_measures": [
+          "Ensure high ventilation in greenhouses and tunnels; keep relative humidity below 85%.",
+          "Space plants widely to facilitate air circulation.",
+          "Apply preventative fungicides (chlorothalonil, copper) at early disease detection."
+        ],
+        "general_management": [
+          "Prune dense sucker growth and lower leaves regularly.",
+          "Disinfect greenhouse framing and plastic between cropping cycles."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का पत्ती फफूंद (Leaf Mold)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों की ऊपरी सतह पर हल्के पीले धब्बे।",
+          "पत्तियों की निचली सतह पर जैतून-हरे रंग की मखमली फफूंद।",
+          "पत्तियां सूखकर समय से पहले गिर जाती हैं।"
+        ],
+        "preventive_measures": [
+          "पॉलीहाउस/ग्रीनहाउस में वेंटिलेशन बढ़ाएं ताकि नमी 85% से कम रहे।",
+          "पौधों के बीच उचित दूरी रखें।",
+          "कॉपर कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "निचली पत्तियों और अतिरिक्त शाखाओं की छंटाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி இலை பூஞ்சை நோய் (Leaf Mold)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளின் மேல் பகுதியில் வெளிர் மஞ்சள் புள்ளிகள்.",
+          "இலைகளின் கீழ் ஆலிவ்-பச்சை நிறத்தில் மखमலி போன்ற பூஞ்சை.",
+          "இலைகள் காய்ந்து உதிர்தல்."
+        ],
+        "preventive_measures": [
+          "பசுமைக்குடில்களில் காற்றோட்டத்தை அதிகரிக்கவும்.",
+          "செடிகளுக்கிடையே போதிய இடைவெளி விடவும்.",
+          "செம்பு பூஞ்சைக்கொல்லியை தெளிக்கவும்."
+        ],
+        "general_management": [
+          "அதிகப்படியான பக்கக் கிளைகளை அகற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా లీఫ్ మోల్డ్ బూజు తెగులు (Leaf Mold)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకుల పైభాగంలో లేత పసుపు రంగు మచ్చలు.",
+          "ఆకుల అడుగుభాగంలో ముదురు ఆకుపచ్చ రంగు వెల్వెట్ లాంటి బూజు.",
+          "ఆకులు ఎండిపోయి రాలిపోతాయి."
+        ],
+        "preventive_measures": [
+          "గ్రీన్‌హౌస్‌లలో గాలి ప్రసరణను పెంచండి (తేమను తగ్గించండి).",
+          "మొక్కల మధ్య సరైన దూరం పాటించండి.",
+          "కాపర్ లేదా ఇతర శిలీంద్రనాశినులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "అనవసరమైన కొమ్మలను ఎప్పటికప్పుడు తీసివేయండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "crop": "Tomato",
+    "condition": "Septoria Leaf Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Septoria Leaf Spot (Septoria lycopersici)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Numerous small, circular spots (1/8 inch) with dark brown margins and gray or tan centers.",
+          "Tiny black speckles (pycnidia fruiting bodies) visible in lesion centers.",
+          "Progressive yellowing and defoliation from ground level upwards."
+        ],
+        "preventive_measures": [
+          "Apply organic or plastic mulch around the plant base to limit spore splashing.",
+          "Avoid handling plants or cultivating when foliage is wet.",
+          "Apply preventative fungicides (chlorothalonil, copper, mancozeb) starting after first blossom."
+        ],
+        "general_management": [
+          "Stake plants and prune lower leaves for ventilation.",
+          "Rotate crops with non-solanaceous plants for at least 2 years."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का सेप्टोरिया पत्ती धब्बा (Septoria Leaf Spot)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर अनेक छोटे गोल धब्बे, जिनके किनारे गहरे भूरे और बीच का भाग भूरा-सफेद होता है।",
+          "धब्बों के केंद्र में छोटे काले बिंदु (कवक के फल)।",
+          "नीचे से ऊपर की ओर पत्तियों का पीला पड़ना और गिरना।"
+        ],
+        "preventive_measures": [
+          "पौधों के आधार पर मल्चिंग करें।",
+          "गीले पौधों को हाथ लगाने से बचें।",
+          "क्लोरोथैलोनिल या कॉपर कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "पौधों को सहारा देकर ऊपर उठाएं।",
+          "2 साल का फसल चक्र अपनाएं।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி செப்டோரியா இலைப்புள்ளி (Septoria Leaf Spot)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளில் சாம்பல் நிற மையமும் பழுப்பு நிற விளிம்பும் கொண்ட சிறிய வட்டப் புள்ளிகள்.",
+          "புள்ளிகளின் நடுவே கருப்பு நிறப் புள்ளிகள்.",
+          "கீழ் இலைகள் மஞ்சள் நிறமாகி உதிர்தல்."
+        ],
+        "preventive_measures": [
+          "செடிகளைச் சுற்றி மூடாக்கு இடவும்.",
+          "இலைகள் ஈரமாக இருக்கும்போது தொட வேண்டாம்.",
+          "மேன்கோசெப் மருந்து தெளிக்கவும்."
+        ],
+        "general_management": [
+          "செடிகளை நிமிர்த்தி கட்டி காற்றோட்டத்தை அதிகரிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా సెప్టోరియా ఆకుమచ్చ తెగులు (Septoria Leaf Spot)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులపై బూడిద రంగు కేంద్రం, నల్లటి అంచులు గల చిన్న గుండ్రని మచ్చలు.",
+          "మచ్చల మధ్యలో చిన్న నల్లటి చుక్కలు కనిపిస్తాయి.",
+          "కింది ఆకులు పసుపు రంగులోకి మారి రాలిపోతాయి."
+        ],
+        "preventive_measures": [
+          "నేలపై మల్చింగ్ షీట్లు వాడండి.",
+          "ఆకులు తడిగా ఉన్నప్పుడు తాకవద్దు.",
+          "క్లోరోథలోనిల్ లేదా కాపర్ మందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "మొక్కలను నిలబెట్టడానికి కర్రలు వాడండి.",
+          "పంట మార్పిడిని తప్పనిసరిగా పాటించండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "crop": "Tomato",
+    "condition": "Two-Spotted Spider Mites",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Two-Spotted Spider Mites (Tetranychus urticae)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Fine yellow stippling or flecking across upper leaf surfaces.",
+          "Delicate, silken webbing visible on leaf undersides and shoot tips.",
+          "Leaves turn bronze or yellow, desiccate, and drop under heavy infestation."
+        ],
+        "preventive_measures": [
+          "Avoid dry, dusty conditions; mist water or irrigate regularly to deter mites.",
+          "Introduce predatory mites (e.g., Phytoseiulus persimilis) as biological controls.",
+          "Apply insecticidal soap, neem oil, or selective miticides (abamectin, bifenazate)."
+        ],
+        "general_management": [
+          "Inspect leaf undersides with a hand lens regularly.",
+          "Promptly remove heavily infested plants."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का लाल मकड़ी कीट (Spider Mites)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों की ऊपरी सतह पर छोटे पीले छींटे या धब्बे।",
+          "पत्तियों के नीचे और टहनियों पर बारीक जाले।",
+          "पत्तियां कांस्य या पीली होकर सूखने लगती हैं।"
+        ],
+        "preventive_measures": [
+          "खेत में धूल और अत्यधिक सूखे से बचें, नमी बनाए रखें।",
+          "नीम का तेल या कीटनाशक साबुन का छिड़काव करें।",
+          "माइटिसाइड (एबामेक्टिन आदि) का प्रयोग करें।"
+        ],
+        "general_management": [
+          "पत्तियों के निचले हिस्से की लेंस से जांच करें।",
+          "अधिक प्रभावित पौधों को हटा दें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி சிலந்திப் பேன் தாக்குதல் (Spider Mites)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளின் மேல் மஞ்சள் நிற சிறிய புள்ளிகள்.",
+          "இலைகளின் அடியில் மெல்லிய சிலந்தி வலைகள்.",
+          "இலைகள் காய்ந்து வெண்கல நிறமாக மாறுதல்."
+        ],
+        "preventive_measures": [
+          "வயலில் வறண்ட தூசு சூழலைத் தவிர்க்கவும்.",
+          "வேப்பெண்ணெய் அல்லது சோப்பு கரைசல் தெளிக்கவும்.",
+          "பூச்சிக்கொல்லி மருந்துகளைப் பயன்படுத்தவும்."
+        ],
+        "general_management": [
+          "இலைகளின் அடிப்பகுதியை பூதக்கண்ணாடி மூலம் கண்காணிக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా ఎర్ర నల్లి తెగులు (Spider Mites)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులపై పసుపు రంగు చిన్న చిన్న చుక్కలు.",
+          "ఆకుల అడుగున మరియు చివర్లలో సన్నని బూజు/వలలు.",
+          "ఆకులు రాగి రంగులోకి మారి ఎండిపోతాయి."
+        ],
+        "preventive_measures": [
+          "తోటలో దుమ్ము మరియు అధిక పొడి వాతావరణం లేకుండా తేమను ఉంచండి.",
+          "వేప నూనె లేదా సబ్బు ద్రావణాన్ని పిచికారీ చేయండి.",
+          "అబామెక్టిన్ వంటి నల్లి నివారణ మందులను వాడండి."
+        ],
+        "general_management": [
+          "ఆకుల అడుగుభాగాన్ని తరచుగా గమనిస్తూ ఉండండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Target_Spot": {
+    "crop": "Tomato",
+    "condition": "Target Spot",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Target Spot (Corynespora cassiicola)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Pinpoint brown spots on leaves that expand into circular lesions with light brown centers.",
+          "Concentric rings give a 'target-like' appearance to mature lesions.",
+          "Sunken, crater-like dark brown lesions with concentric rings on green and ripe fruit."
+        ],
+        "preventive_measures": [
+          "Ensure adequate plant spacing and row orientation to maximize airflow.",
+          "Apply preventative fungicides (azoxystrobin, chlorothalonil, copper) during warm, humid conditions.",
+          "Avoid overhead sprinkler irrigation."
+        ],
+        "general_management": [
+          "Remove lower leaves to minimize soil-splash contamination.",
+          "Destroy infected crop residue post-harvest."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का टार्गेट स्पॉट (Target Spot)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर भूरे गोल धब्बे जिनमें संकेंद्री छल्ले होते हैं।",
+          "फलों पर धंसे हुए गड्ढेदार भूरे धब्बे।",
+          "पत्तियों का सूखकर गिरना।"
+        ],
+        "preventive_measures": [
+          "हवा के लिए पौधों के बीच दूरी रखें।",
+          "ऊपर से पानी छिड़कने से बचें।",
+          "कवकनाशी का छिड़काव करें।"
+        ],
+        "general_management": [
+          "निचली पत्तियों की छंटाई करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி டார்கெட் ஸ்பாட் (Target Spot)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகள் மற்றும் பழங்களில் இலக்கு வளையங்கள் போன்ற பழுப்பு நிற புள்ளிகள்.",
+          "பழங்களில் பள்ளமான கருமையான வடுக்கள்."
+        ],
+        "preventive_measures": [
+          "செடிகளுக்கிடையே போதிய இடைவெளி விடவும்.",
+          "பூஞ்சைக்கொல்லியைப் பயன்படுத்தவும்."
+        ],
+        "general_management": [
+          "கீழ் இலைகளை கவாத்து செய்யவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా టార్గెట్ స్పాట్ తెగులు (Target Spot)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులు మరియు కాయలపై వలయాకారపు గోధుమ రంగు మచ్చలు.",
+          "కాయలపై లోతైన గుంటల వంటి నల్లటి గుర్తులు."
+        ],
+        "preventive_measures": [
+          "మొక్కల మధ్య తగినంత దూరం ఉంచండి.",
+          "సిఫార్సు చేసిన శిలీంద్రనాశినులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "కింది ఆకులను కత్తిరించండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "crop": "Tomato",
+    "condition": "Yellow Leaf Curl Virus",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Severe upward curling and cupping of leaflets.",
+          "Pronounced yellowing (chlorosis) along leaf margins and veins.",
+          "Severe plant stunting, bushy upright growth, and blossom abortion."
+        ],
+        "preventive_measures": [
+          "Select TYLCV-resistant or tolerant tomato hybrids (e.g., Tycoon, Red Deuce).",
+          "Control vector insect (Silverleaf Whitefly, Bemisia tabaci) using insecticidal soaps, imidacloprid, or pyriproxyfen.",
+          "Use yellow sticky traps to monitor and catch whiteflies.",
+          "Use fine 50-mesh insect screens in nurseries and greenhouse vents."
+        ],
+        "general_management": [
+          "Rogue out and destroy infected symptomatic plants immediately.",
+          "Maintain a clean field border free of alternative weed hosts."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का पीला पत्ती कुंचन वायरस (TYLCV)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियां ऊपर की ओर मुड़कर कटोरे जैसी हो जाती हैं।",
+          "पत्तियों के किनारों पर गहरा पीलापन।",
+          "पौधा बौना रह जाता है, फूल झड़ जाते हैं और फल नहीं लगते।"
+        ],
+        "preventive_measures": [
+          "रोग प्रतिरोधी किस्मों की बुवाई करें।",
+          "सफेद मक्खी (वाहक कीट) को नियंत्रित करने के लिए पीले चिपचिपे ट्रैप लगाएं।",
+          "नीम के तेल या अनुशंसित कीटनाशक का छिड़काव करें।"
+        ],
+        "general_management": [
+          "संक्रमित पौधों को तुरंत उखाड़कर नष्ट करें।",
+          "नर्सरी को 50-मेश वाली जाली से ढक कर रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி இலை சுருள் வைரஸ் நோய் (TYLCV)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகள் மேல்நோக்கி கிண்ணம் போல் சுருங்குதல்.",
+          "இலை விளிம்புகளில் மஞ்சள் நிறம் தோன்றுதல்.",
+          "செடி வளர்ச்சி குன்றி பூக்கள் உதிர்ந்து போதல்."
+        ],
+        "preventive_measures": [
+          "வைரஸ் எதிர்ப்பு ரகங்களை பயிரிடவும்.",
+          "வெள்ளை ஈக்களைக் கட்டுப்படுத்த மஞ்சள் ஒட்டும் பொறிகளைப் பயன்படுத்தவும்.",
+          "பூச்சிக்கொல்லி அல்லது வேப்பெண்ணெய் தெளிக்கவும்."
+        ],
+        "general_management": [
+          "பாதிக்கப்பட்ட செடிகளை வேரோடு பிடுங்கி அழிக்கவும்.",
+          "நாற்றங்கால்களை வலை போட்டு பாதுகாக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా ఆకు ముడుత వైరస్ తెగులు (TYLCV)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులు పైకి ముడుచుకుని గిన్నెలా మారతాయి.",
+          "ఆకుల అంచులు పసుపు రంగులోకి మారడం.",
+          "మొక్క గిడసబారిపోయి పూత నిలవకపోవడం."
+        ],
+        "preventive_measures": [
+          "వైరస్ నిరోధక విత్తనాలను వాడండి.",
+          "తెల్లదోమ నివారణకు పసుపు రంగు జిగురు బోర్డులను వాడండి.",
+          "సిఫార్సు చేసిన పురుగుమందులను పిచికారీ చేయండి."
+        ],
+        "general_management": [
+          "తెగులు సోకిన మొక్కలను పీకి నాశనం చేయండి.",
+          "నర్సరీలో దోమ తెరలను ఉపయోగించండి."
+        ]
+      }
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "crop": "Tomato",
+    "condition": "Mosaic Virus",
+    "is_healthy": false,
+    "translations": {
+      "en": {
+        "disease_name": "Tomato Mosaic Virus (ToMV)",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "Mottled alternating light and dark green patterns on leaves.",
+          "Leaf distortion, blistering, and stringy 'fern-leaf' or shoe-string appearance.",
+          "Internal browning (brown wall) of ripe tomato fruits."
+        ],
+        "preventive_measures": [
+          "Plant ToMV-resistant cultivars (marked with 'T' or 'ToMV' designation).",
+          "Disinfect tools and wash hands thoroughly with soap or 20% non-fat dry milk before handling plants.",
+          "Do not use tobacco products near tomato plants as tobacco carries related mosaic viruses."
+        ],
+        "general_management": [
+          "Rogue and bag symptomatic plants immediately to prevent mechanical transmission.",
+          "Sterilize trellising twine and stakes between growing seasons."
+        ]
+      },
+      "hi": {
+        "disease_name": "टमाटर का मोज़ेक वायरस (Tomato Mosaic Virus)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर हल्के और गहरे हरे रंग का चितकबरा (मोज़ेक) रूप।",
+          "पत्तियां विकृत और संकरी (फर्न जैसी) हो जाती हैं।",
+          "फलों के अंदर भूरापन और असमान पकना।"
+        ],
+        "preventive_measures": [
+          "मोज़ेक प्रतिरोधी किस्मों का चयन करें।",
+          "पौधों को छूने से पहले साबुन से हाथ धोएं।",
+          "टमाटर के पास तंबाकू या धूम्रपान न करें (यह वायरस फैलाता है)।"
+        ],
+        "general_management": [
+          "संक्रमित पौधों को छूने के बाद तुरंत खेत से हटाएं।",
+          "औजारों को कीटाणुरहित रखें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "தக்காளி மொசைக் வைரஸ் நோய் (ToMV)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "இலைகளில் வெளிர் மற்றும் அடர் பச்சை நிற மொசைக் புள்ளிகள்.",
+          "இலைகள் சிதைந்து மெலிந்து போதல்.",
+          "பழங்களின் உட்பகுதி பழுப்பு நிறமாக மாறுதல்."
+        ],
+        "preventive_measures": [
+          "வைரஸ் எதிர்ப்பு ரகங்களை நடவும்.",
+          "செடிகளைத் தொடுவதற்கு முன் கைகளை சோப்பினால் கழுவவும்.",
+          "புகையிலைப் பொருட்களை செடிகளுக்கு அருகில் பயன்படுத்த வேண்டாம்."
+        ],
+        "general_management": [
+          "பாதிக்கப்பட்ட செடிகளை உடனே அகற்றவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "టమోటా మొజాయిక్ వైరస్ తెగులు (ToMV)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఆకులపై లేత మరియు ముదురు ఆకుపచ్చ రంగు మచ్చలు.",
+          "ఆకులు సన్నబడి వికృతంగా మారడం.",
+          "కాయల లోపలి భాగం గోధుమ రంగులోకి మారడం."
+        ],
+        "preventive_measures": [
+          "మొజాయిక్ నిరోధక రకాలను ఎన్నుకోండి.",
+          "మొక్కలను తాకే ముందు చేతులను సబ్బుతో శుభ్రం చేసుకోండి.",
+          "తోట సమీపంలో పొగాకు వాడకాన్ని నిషేధించండి."
+        ],
+        "general_management": [
+          "సోకిన మొక్కలను తీసివేసి నాశనం చేయండి."
+        ]
+      }
+    }
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "condition": "Healthy Foliage",
+    "is_healthy": true,
+    "translations": {
+      "en": {
+        "disease_name": "Healthy Tomato Foliage",
+        "affected_plant": "Tomato (Solanum lycopersicum)",
+        "symptoms": [
+          "No chlorotic mottling, target lesions, or bacterial water-soaking.",
+          "Deep, uniform green foliage with robust stem elongation.",
+          "Vigorous flowering and uniform fruit cluster development."
+        ],
+        "preventive_measures": [
+          "Maintain consistent soil moisture through drip irrigation to prevent blossom-end rot and cracking.",
+          "Provide balanced nutrition with calcium and potassium supplementation.",
+          "Scout twice weekly for early signs of mites, hornworms, or fungal spots."
+        ],
+        "general_management": [
+          "Stake or cage plants off wet ground.",
+          "Apply organic straw or bark mulch to retain moisture and suppress weeds."
+        ]
+      },
+      "hi": {
+        "disease_name": "स्वस्थ टमाटर की पत्ती (Healthy)",
+        "affected_plant": "टमाटर",
+        "symptoms": [
+          "पत्तियों पर कोई धब्बा, सिकुड़न या फफूंद नहीं है।",
+          "गहरा हरा, चमकदार और स्वस्थ पौधा।",
+          "फूल और फल सामान्य और मजबूत रूप से बढ़ रहे हैं।"
+        ],
+        "preventive_measures": [
+          "ड्रिप सिंचाई द्वारा नियमित पानी दें।",
+          "कैल्शियम और पोटेशियम युक्त संतुलित पोषण दें।",
+          "नियमित रूप से कीटों और बीमारियों की जांच करते रहें।"
+        ],
+        "general_management": [
+          "पौधों को बांस के सहारे ऊपर रखें।",
+          "मिट्टी की नमी बनाए रखने के लिए मल्चिंग करें।"
+        ]
+      },
+      "ta": {
+        "disease_name": "ஆரோக்கியமான தக்காளி இலை (Healthy)",
+        "affected_plant": "தக்காளி",
+        "symptoms": [
+          "எந்தவித புள்ளிகளும் சுருக்கங்களும் இல்லாத பசுமையான இலைகள்.",
+          "சீரான வளர்ச்சி மற்றும் வலுவான பூக்கள்."
+        ],
+        "preventive_measures": [
+          "சொட்டு நீர் பாசனம் மூலம் சமச்சீரான நீர் வழங்கவும்.",
+          "கால்சியம் மற்றும் பொட்டாசியம் சத்துக்களை சீராக அளிக்கவும்.",
+          "வாரந்தோறும் பூச்சிகளைக் கண்காணிக்கவும்."
+        ],
+        "general_management": [
+          "செடிகளுக்கு முட்டு கொடுத்து தரையில் படராமல் பார்க்கவும்.",
+          "மூடாக்கு இட்டு ஈரப்பதத்தை பாதுகாக்கவும்."
+        ]
+      },
+      "te": {
+        "disease_name": "ఆరోగ్యకరమైన టమోటా ఆకు (Healthy)",
+        "affected_plant": "టమోటా",
+        "symptoms": [
+          "ఎలాంటి మచ్చలు, ముడుతలు లేని సహజమైన ఆకుపచ్చని ఆకులు.",
+          "మొక్క దృఢంగా ఉండి ఆరోగ్యకరమైన పూత, పిందెలు ఉన్నాయి."
+        ],
+        "preventive_measures": [
+          "డ్రిప్ ద్వారా సమతుల్యంగా నీటిని అందించండి.",
+          "కాల్షియం మరియు పొటాషియం ఎరువులను సకాలంలో వేయండి.",
+          "కీటకాలు మరియు తెగుళ్ల కోసం క్రమం తప్పకుండా పరిశీలించండి."
+        ],
+        "general_management": [
+          "మొక్కలు నేలపై పడకుండా కర్రలతో నిలబెట్టండి.",
+          "తేమను కాపాడటానికి మల్చింగ్ పద్ధతిని వాడండి."
+        ]
+      }
+    }
+  }
+}

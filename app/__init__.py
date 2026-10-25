@@ -1,0 +1,1 @@
+"""AgroDetect Application Package"""

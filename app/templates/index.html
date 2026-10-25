@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroDetect – Plant Disease Detection System</title>
+    <link rel="icon" type="image/svg+xml" href="/static/images/logo.svg">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+    <!-- ====================================================================
+         Navigation Bar
+         ==================================================================== -->
+    <header class="navbar">
+        <div class="container nav-container">
+            <a href="/" class="brand-link">
+                <img src="/static/images/logo.svg" alt="AgroDetect Logo" class="brand-logo">
+                <div class="brand-text">
+                    <h1 data-i18n="appTitle">AgroDetect</h1>
+                    <span data-i18n="appSubtitle">Plant Disease Detection System</span>
+                </div>
+            </a>
+
+            <div class="nav-controls">
+                <ul class="nav-links">
+                    <li><a href="#diagnose" data-i18n="navAnalyze">Diagnose Leaf</a></li>
+                    <li><a href="#how-it-works" data-i18n="navHowItWorks">How It Works</a></li>
+                    <li><a href="#crops" data-i18n="navCrops">Supported Crops</a></li>
+                    <li><a href="/docs" target="_blank" data-i18n="navApi">API Docs</a></li>
+                </ul>
+
+                <!-- Language Selector -->
+                <div class="lang-selector-wrap" title="Change Language">
+                    <span class="lang-icon">🌐</span>
+                    <select id="langSelect" class="lang-select">
+                        <option value="en" selected>English</option>
+                        <option value="hi">हिन्दी (Hindi)</option>
+                        <option value="ta">தமிழ் (Tamil)</option>
+                        <option value="te">తెలుగు (Telugu)</option>
+                        <option value="kn">ಕನ್ನಡ (Kannada)</option>
+                        <option value="ml">മലയാളം (Malayalam)</option>
+                        <option value="mr">मराठी (Marathi)</option>
+                        <option value="bn">বাংলা (Bengali)</option>
+                        <option value="gu">ગુજરાતી (Gujarati)</option>
+                        <option value="pa">ਪੰਜਾਬੀ (Punjabi)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ====================================================================
+         Model Status Banner (Only shown if model is missing)
+         ==================================================================== -->
+    {% if not model_loaded %}
+    <div class="status-banner setup">
+        <div class="container status-content">
+            <span class="status-indicator"></span>
+            <span data-i18n="modelSetupMode">{{ status_message }}</span>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- ====================================================================
+         Hero Section
+         ==================================================================== -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-badge">
+                <span>🌱</span>
+                <span>Deep Learning Agricultural Diagnostics</span>
+            </div>
+            <h2 data-i18n="heroHeading">Protect Your Harvest with Intelligent Disease Detection</h2>
+            <p data-i18n="heroDesc">
+                Upload a photo of any crop leaf to identify diseases instantly. Powered by a deep residual convolutional network (ResNet50) with clinical symptoms and preventive guidance.
+            </p>
+            <div class="hero-actions">
+                <a href="#diagnose" class="btn btn-primary" data-i18n="btnStartDiagnosing">Diagnose Leaf Now</a>
+                <a href="#crops" class="btn btn-outline" data-i18n="btnExploreDiseases">Explore Diseases</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ====================================================================
+         Main Diagnostic Section
+         ==================================================================== -->
+    <main class="container diagnostic-section" id="diagnose">
+        <div class="card">
+            <div class="card-header">
+                <h3 data-i18n="uploadTitle">Upload Crop Leaf Image</h3>
+                <p data-i18n="uploadSubtitle">Drag and drop a leaf image or select from your computer (JPG, JPEG, PNG up to 10MB)</p>
+            </div>
+
+            <!-- Drag and Drop Dropzone -->
+            <div class="dropzone" id="dropzone">
+                <div class="dropzone-icon">🍃</div>
+                <h4 class="dropzone-title" data-i18n="dragDropText">Drag & Drop leaf photo here</h4>
+                <p class="dropzone-subtitle" data-i18n="orBrowseText">or click to browse files</p>
+                <button type="button" class="btn btn-outline btn-sm" id="btnBrowseText" data-i18n="browseBtn">
+                    Select Leaf Photo
+                </button>
+                <input type="file" id="fileInput" class="file-input" accept="image/jpeg,image/png,image/jpg">
+            </div>
+
+            <!-- Image Preview Box -->
+            <div class="preview-container" id="previewContainer">
+                <div class="preview-wrapper">
+                    <img id="previewImage" class="preview-image" alt="Selected Plant Leaf Preview">
+                </div>
+                <div class="preview-meta">
+                    <span id="previewFilename">leaf.jpg</span>
+                    <span id="previewFilesize">0.0 MB</span>
+                </div>
+                <div class="preview-actions">
+                    <button type="button" class="btn btn-outline btn-sm" id="btnChangeImage" data-i18n="btnChangeImage">
+                        Change Photo
+                    </button>
+                </div>
+            </div>
+
+            <!-- Analyze Action Button -->
+            <div class="action-container" id="actionContainer">
+                <button type="button" class="btn btn-primary btn-large" id="btnAnalyze">
+                    <span class="spinner" id="btnSpinner" style="display: none;"></span>
+                    <span id="btnAnalyzeText" data-i18n="btnAnalyze">Analyze Leaf Condition</span>
+                </button>
+            </div>
+
+            <!-- Alert Notifications -->
+            <div class="alert" id="alertBox"></div>
+
+            <!-- ================================================================
+                 Diagnostic Results View
+                 ================================================================ -->
+            <div class="results-container" id="resultsContainer">
+                <div class="result-card-header">
+                    <h3 data-i18n="resultsTitle">Diagnostic Assessment</h3>
+                    <span id="resStatusBadge" class="status-badge healthy">Healthy Plant Foliage</span>
+                </div>
+
+                <!-- Primary Diagnosis & Confidence -->
+                <div class="diagnosis-primary">
+                    <div class="diagnosis-grid">
+                        <div class="diag-item">
+                            <label data-i18n="cropLabel">Crop / Plant</label>
+                            <h4 id="resCropName">Tomato</h4>
+                        </div>
+                        <div class="diag-item">
+                            <label data-i18n="conditionLabel">Condition</label>
+                            <h4 id="resConditionName">Early Blight</h4>
+                        </div>
+                    </div>
+
+                    <!-- Confidence Progress Bar -->
+                    <div class="confidence-bar-wrap">
+                        <div class="confidence-header">
+                            <span data-i18n="confidenceLabel">Confidence Score</span>
+                            <span id="resConfidenceVal">0.0%</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill" id="resConfidenceBar"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Top 3 Predictions Breakdown -->
+                <div class="top-preds-section">
+                    <h5 data-i18n="topPredictionsTitle">Top Predicted Possibilities</h5>
+                    <div id="resTopPreds">
+                        <!-- Populated by JavaScript -->
+                    </div>
+                </div>
+
+                <!-- Clinical Guidance: Symptoms & Preventive Measures -->
+                <div class="advice-section">
+                    <div class="advice-card">
+                        <h4><span>🔍</span> <span data-i18n="symptomsTitle">Observable Symptoms</span></h4>
+                        <ul class="advice-list" id="resSymptomsList">
+                            <!-- Populated dynamically -->
+                        </ul>
+                    </div>
+
+                    <div class="advice-card">
+                        <h4><span>🛡️</span> <span data-i18n="preventiveTitle">Recommended Preventive Measures</span></h4>
+                        <ul class="advice-list" id="resPreventList">
+                            <!-- Populated dynamically -->
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- General Cultural Management -->
+                <div class="advice-card" style="margin-top: 20px;">
+                    <h4><span>🚜</span> <span data-i18n="managementTitle">General Cultural Management</span></h4>
+                    <ul class="advice-list" id="resManageList">
+                        <!-- Populated dynamically -->
+                    </ul>
+                </div>
+
+                <!-- Agricultural Advisory Disclaimer -->
+                <div class="disclaimer-card">
+                    <h5 data-i18n="disclaimerTitle">Agricultural Advisory Notice</h5>
+                    <p data-i18n="disclaimerText">
+                        This assessment is generated by an artificial intelligence model as general diagnostic guidance. Always consult local agricultural extension officers or certified agronomists before applying chemical treatments.
+                    </p>
+                </div>
+
+                <!-- Reset / Upload Another Leaf Button -->
+                <div style="margin-top: 28px; text-align: center;">
+                    <button type="button" class="btn btn-outline" id="btnReset" data-i18n="btnReset">
+                        Analyze Another Leaf
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- ====================================================================
+         How It Works Section
+         ==================================================================== -->
+    <section class="hiw-section" id="how-it-works">
+        <div class="container">
+            <h3 class="section-title" data-i18n="hiwTitle">How AgroDetect Works</h3>
+            <div class="steps-grid">
+                <div class="step-card">
+                    <div class="step-icon">📸</div>
+                    <h4 data-i18n="hiwStep1Title">1. Capture or Upload</h4>
+                    <p data-i18n="hiwStep1Desc">Take a clear, well-lit photo of an affected plant leaf and upload it in JPG or PNG format.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-icon">🧠</div>
+                    <h4 data-i18n="hiwStep2Title">2. ResNet50 Neural Analysis</h4>
+                    <p data-i18n="hiwStep2Desc">Our deep residual network extracts 2,048 multi-scale visual features and classifies leaf pathology.</p>
+                </div>
+                <div class="step-card">
+                    <div class="step-icon">🌾</div>
+                    <h4 data-i18n="hiwStep3Title">3. Actionable Prevention</h4>
+                    <p data-i18n="hiwStep3Desc">Receive immediate disease prognosis, confidence score, visible symptoms, and field-tested preventive measures.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ====================================================================
+         Supported Crops Section
+         ==================================================================== -->
+    <section class="crops-section" id="crops">
+        <div class="container">
+            <h3 class="section-title" data-i18n="cropsTitle">Supported Agricultural Crops</h3>
+            <p style="color: var(--text-muted); max-width: 650px; margin: 0 auto;" data-i18n="cropsSubtitle">
+                AgroDetect classifies conditions across 14 major economic crops in the PlantVillage benchmark
+            </p>
+            <div class="crops-badges">
+                <span class="crop-pill">🍎 Apple</span>
+                <span class="crop-pill">🫐 Blueberry</span>
+                <span class="crop-pill">🍒 Cherry</span>
+                <span class="crop-pill">🌽 Corn (Maize)</span>
+                <span class="crop-pill">🍇 Grape</span>
+                <span class="crop-pill">🍊 Orange (Citrus)</span>
+                <span class="crop-pill">🍑 Peach</span>
+                <span class="crop-pill">🫑 Bell Pepper</span>
+                <span class="crop-pill">🥔 Potato</span>
+                <span class="crop-pill">🍇 Raspberry</span>
+                <span class="crop-pill">🌱 Soybean</span>
+                <span class="crop-pill">🎃 Squash</span>
+                <span class="crop-pill">🍓 Strawberry</span>
+                <span class="crop-pill">🍅 Tomato</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- ====================================================================
+         Footer
+         ==================================================================== -->
+    <footer class="footer">
+        <div class="container">
+            <p><strong>AgroDetect</strong> &copy; 2026 – AI-Powered Plant Disease Diagnostic System</p>
+            <p>Built with PyTorch, ResNet50, OpenCV, and FastAPI</p>
+            <p><a href="/docs" target="_blank">Interactive Swagger API Documentation</a></p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/static/js/translations.js"></script>
+    <script src="/static/js/script.js"></script>
+</body>
+</html>

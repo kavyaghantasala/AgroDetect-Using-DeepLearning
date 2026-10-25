@@ -1,9 +1,12 @@
 # AgroDetect – Plant Disease Detection System
 
-![AgroDetect Architecture](https://img.shields.io/badge/Architecture-ResNet50-brightgreen)
-![Framework](https://img.shields.io/badge/Framework-PyTorch%20%2B%20FastAPI-blue)
-![Frontend](https://img.shields.io/badge/Frontend-HTML5%20%7C%20CSS3%20%7C%20JavaScript-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://agrodetect-using-deeplearning.onrender.com)
+[![Swagger API](https://img.shields.io/badge/API_Docs-Swagger_UI-0288D1?style=for-the-badge&logo=fastapi&logoColor=white)](https://agrodetect-using-deeplearning.onrender.com/docs)
+![Architecture](https://img.shields.io/badge/Architecture-ResNet50-brightgreen?style=for-the-badge)
+![Framework](https://img.shields.io/badge/Framework-PyTorch%20%2B%20FastAPI-blue?style=for-the-badge)
+
+> 🚀 **Live Production URL**: [https://agrodetect-using-deeplearning.onrender.com](https://agrodetect-using-deeplearning.onrender.com)  
+> 📖 **Interactive Swagger API Docs**: [https://agrodetect-using-deeplearning.onrender.com/docs](https://agrodetect-using-deeplearning.onrender.com/docs)
 
 **AgroDetect** is an end-to-end deep learning web application that diagnoses plant diseases from uploaded leaf images. Built using **PyTorch**, transfer learning with **ResNet50**, **OpenCV**, and **FastAPI**, AgroDetect provides real-time disease classification, confidence scores, visible symptom breakdowns, preventive agricultural measures, and cultural management advice across **10 regional languages**: English, Telugu (తెలుగు), Hindi (हिन्दी), Tamil (தமிழ்), Kannada (ಕನ್ನಡ), Malayalam (മലയാളം), Marathi (मराठी), Bengali (বাংলা), Gujarati (ગુજરાતી), and Punjabi (ਪੰਜਾਬੀ).
 
@@ -248,16 +251,15 @@ Open your browser at: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 
 ## 8. Cloud Deployment Guide
 
-AgroDetect is containerized and ready for 1-click cloud deployment:
+AgroDetect is currently deployed live on **Render Cloud**:
+- 🌐 **Live Web Application**: [https://agrodetect-using-deeplearning.onrender.com](https://agrodetect-using-deeplearning.onrender.com)
+- 📖 **Interactive Swagger UI**: [https://agrodetect-using-deeplearning.onrender.com/docs](https://agrodetect-using-deeplearning.onrender.com/docs)
 
-- **Hugging Face Spaces (Recommended - 100% Free, 16 GB RAM)**:
-  1. Create a new Space at [huggingface.co/new-space](https://huggingface.co/new-space) using **Docker** SDK (Blank template).
-  2. Upload the repository files.
-  3. The app builds automatically and gives you a permanent public URL: `https://YOUR_USERNAME-agrodetect.hf.space`.
-  
-- **Render.com**: Connect your GitHub repository to a new Web Service using the included [render.yaml](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/render.yaml) blueprint and [Dockerfile](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/Dockerfile).
+### Deployment Options Included:
 
-- **Instant Public Link from Laptop**: Double-click [share_online.bat](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/share_online.bat) or run `cloudflared tunnel --url http://127.0.0.1:8000`.
+- **Render.com (Active Deployment)**: Connected directly to GitHub repository using [render.yaml](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/render.yaml) and [Dockerfile](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/Dockerfile).
+- **Hugging Face Spaces**: Zero-config deployment with 16 GB RAM using the included Docker template.
+- **Instant Public Link from Laptop**: Run [share_online.bat](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/share_online.bat) or run `cloudflared tunnel --url http://127.0.0.1:8000`.
 
 See [DEPLOYMENT.md](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetect/DEPLOYMENT.md) for the full step-by-step walkthrough.
 
@@ -265,8 +267,9 @@ See [DEPLOYMENT.md](file:///C:/Users/kakan/.gemini/antigravity/scratch/AgroDetec
 
 ## 9. API Documentation & Swagger UI
 
-FastAPI automatically provides interactive Swagger documentation. Open:
-**[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)**
+FastAPI provides full interactive API testing via Swagger UI:
+- **Cloud URL**: **[https://agrodetect-using-deeplearning.onrender.com/docs](https://agrodetect-using-deeplearning.onrender.com/docs)**
+- **Local URL**: **[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)**
 
 ### Key Endpoints:
 
